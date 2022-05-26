@@ -13,4 +13,4 @@ Leider verließ Kai bereits 1998 das DJ-Dreigestirn beruflich bedingt wieder und
 
 Und ja: Mit "electronic'n'noise" ist die prinzipielle Klangfarbe und musikalische Ausrichtung der Sendung eigentlich ganz gut umrissen: Electro, EBM, Industrial, Noise, Techno, Minimal, Breaks, Dubstep, Drum'n'Bass, IDM &amp; Ambient - Ausnahmen gibt es natürlich immer wieder!
 
-Für den direktesten Kontakt - mehr Bilder, mehr Zeugs, mehr alles: <a href="https://www.facebook.com/rauschzeit" target="_blank">Facebook.com/RauschZeit</a>
+Für den direktesten Kontakt - mehr Bilder, mehr Zeugs, mehr alles: [Facebook.com/RauschZeit](https://www.facebook.com/rauschzeit)

@@ -4,15 +4,21 @@ title: AtheB
 dropdown: DJs
 priority: 3
 ---
-<p><a href="http://rauschzeit.de/RZWP/wp-content/uploads/2019/04/35236936_1794082934008006_8416814098204852224_n.jpg"><img class="alignnone wp-image-3252 size-medium" src="http://rauschzeit.de/RZWP/wp-content/uploads/2019/04/35236936_1794082934008006_8416814098204852224_n-225x300.jpg" alt="" width="225" height="300" /></a></p>
-<p>Andreas Bluhm aka AtheB</p>
-<p>Gründungsmitglied und von Anfang an dabei - spielt gern den Krach und Technoides.</p>
-<p>Mehr oder weniger pünktlich gibt es hier die monatlichen TopTenTracks:<br />
-<a href="http://atheb.de" target="_blank" rel="noopener">atheb.de</a></p>
-<p>Mixsets:<br />
-<a href="https://www.mixcloud.com/atheb/" target="_blank" rel="noopener">mixcloud.com/atheb</a></p>
-<p>Projekte:<br />
-<a href="http://angerkoff.com/" target="_blank" rel="noopener">Angerkoff - Hardcore with a smile</a><br />
-<a href="https://soundcloud.com/kellerboxer/">Kellerboxer - Audio</a></p>
-<p>Techno:<br />
-<a href="https://www.mixcloud.com/zielfunktion/" target="_blank" rel="noopener">mixcloud.com/zielfunktion</a></p>
+![AtheB](/uploads/2019/04/35236936_1794082934008006_8416814098204852224_n-225x300.jpg "AtheB")
+
+Andreas Bluhm aka AtheB
+
+Gründungsmitglied und von Anfang an dabei - spielt gern den Krach und Technoides.
+
+Mehr oder weniger pünktlich gibt es hier die monatlichen TopTenTracks:  
+[atheb.de](http://atheb.de)
+
+Mixsets:  
+[mixcloud.com/atheb](https://www.mixcloud.com/atheb/)
+
+Projekte:  
+[Angerkoff - Hardcore with a smile](http://angerkoff.com/)  
+[Kellerboxer - Audio](https://soundcloud.com/kellerboxer/)
+
+Techno:  
+[mixcloud.com/zielfunktion](https://www.mixcloud.com/zielfunktion/)

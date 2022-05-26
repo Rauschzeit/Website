@@ -1,22 +1,8 @@
 ---
 layout: page
-status: publish
-published: true
 title: AtheB
-author:
-  display_name: atheb
-  login: atheb
-  email: atheb@rauschzeit.de
-  url: http://www.rauschzeit.de
-author_login: atheb
-author_email: atheb@rauschzeit.de
-author_url: http://www.rauschzeit.de
-wordpress_id: 1117
-wordpress_url: http://rauschzeit.de/?page_id=1117
-date: '2013-12-31 02:08:26 +0100'
-date_gmt: '2013-12-31 01:08:26 +0100'
-categories: []
-tags: []
+dropdown: DJs
+priority: 2
 ---
 <p><a href="http://rauschzeit.de/RZWP/wp-content/uploads/2019/04/35236936_1794082934008006_8416814098204852224_n.jpg"><img class="alignnone wp-image-3252 size-medium" src="http://rauschzeit.de/RZWP/wp-content/uploads/2019/04/35236936_1794082934008006_8416814098204852224_n-225x300.jpg" alt="" width="225" height="300" /></a></p>
 <p>Andreas Bluhm aka AtheB</p>

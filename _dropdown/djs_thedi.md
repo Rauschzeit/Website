@@ -1,22 +1,8 @@
 ---
 layout: page
-status: publish
-published: true
 title: Thedi
-author:
-  display_name: atheb
-  login: atheb
-  email: atheb@rauschzeit.de
-  url: http://www.rauschzeit.de
-author_login: atheb
-author_email: atheb@rauschzeit.de
-author_url: http://www.rauschzeit.de
-wordpress_id: 1121
-wordpress_url: http://rauschzeit.de/?page_id=1121
-date: '2013-12-31 02:28:16 +0100'
-date_gmt: '2013-12-31 01:28:16 +0100'
-categories: []
-tags: []
+dropdown: DJs
+priority: 3
 ---
 <p><a href="http://rauschzeit.de/RZWP/wp-content/uploads/2019/04/52606110_2219902491426046_4387548004714807296_n.jpg"><img class="wp-image-3253 size-medium alignnone" src="http://rauschzeit.de/RZWP/wp-content/uploads/2019/04/52606110_2219902491426046_4387548004714807296_n-300x300.jpg" alt="" width="300" height="300" /></a></p>
 <p>Andreas Thedi Thedens</p>

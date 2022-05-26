@@ -2,7 +2,7 @@
 layout: page
 title: AtheB
 dropdown: DJs
-priority: 1
+priority: 3
 ---
 <p><a href="http://rauschzeit.de/RZWP/wp-content/uploads/2019/04/35236936_1794082934008006_8416814098204852224_n.jpg"><img class="alignnone wp-image-3252 size-medium" src="http://rauschzeit.de/RZWP/wp-content/uploads/2019/04/35236936_1794082934008006_8416814098204852224_n-225x300.jpg" alt="" width="225" height="300" /></a></p>
 <p>Andreas Bluhm aka AtheB</p>

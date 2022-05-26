@@ -43,9 +43,9 @@ avatar: off
 highlighter_theme: monokai
 
 toolbar_priority:
+  - Über uns
   - DJs
-  - About
-  - dropdown1
+  - Playlists
 
 # Collections
 collections:

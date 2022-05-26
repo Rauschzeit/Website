@@ -29,7 +29,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  huddeldaddel
 
 # Theme settings
-theme: jekyll-theme-potato-hacker
+# theme: jekyll-theme-potato-hacker
+remote_theme: luxedo/jekyll-theme-potato-hacker
 theme_repository: "https://github.com/luxedo/jekyll-theme-potato-hacker"
 theme_base: "dark"
 

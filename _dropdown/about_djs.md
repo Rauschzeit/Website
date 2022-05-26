@@ -2,7 +2,7 @@
 layout: page
 title: DJs
 dropdown: Über uns
-priority: 1
+priority: 3
 ---
 
 In der RauschZeit legen zur Zeit zwei DJs auf - quasi alte Hasen und seit Anfang der Neunziger in der dunklen Elektronik zuhause.

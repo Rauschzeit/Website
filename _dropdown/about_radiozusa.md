@@ -2,7 +2,7 @@
 layout: page
 title: Radio ZuSa
 dropdown: Über uns
-priority: 3
+priority: 2
 ---
 
 <p><strong>Radio ZuSa - Internet-Live-Stream und <strong>Frequenzen</strong>:</strong></p>

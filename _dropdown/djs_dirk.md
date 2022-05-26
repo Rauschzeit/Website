@@ -2,7 +2,7 @@
 layout: page
 title: Dirk
 dropdown: DJs
-priority: 3
+priority: 2
 ---
 <p><img style="border: 0px none;" alt="RZ_Portrait_Dirk_2013" src="/uploads/2013/12/RZ_Portrait_Dirk_2013-300x300.jpg" width="300" height="300" /></p>
 

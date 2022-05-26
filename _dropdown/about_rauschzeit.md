@@ -2,7 +2,7 @@
 layout: page
 title: RauschZeit
 dropdown: Über uns
-priority: 2
+priority: 3
 ---
 
 Im Mai 1997 ging der Sender Radio ZuSa für die Region Lüneburg / Uelzen unter der Flagge der Nichtkommerzialität ON AIR und steht seitdem für ein kreatives und alternatives Musik- und Informationsprogramm jenseits der Mainstream-Radios.

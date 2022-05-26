@@ -2,7 +2,7 @@
 layout: page
 title: Thedi
 dropdown: DJs
-priority: 3
+priority: 1
 ---
 <p><a href="http://rauschzeit.de/RZWP/wp-content/uploads/2019/04/52606110_2219902491426046_4387548004714807296_n.jpg"><img class="wp-image-3253 size-medium alignnone" src="http://rauschzeit.de/RZWP/wp-content/uploads/2019/04/52606110_2219902491426046_4387548004714807296_n-300x300.jpg" alt="" width="300" height="300" /></a></p>
 <p>Andreas Thedi Thedens</p>

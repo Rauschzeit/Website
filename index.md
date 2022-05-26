@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: RauschZeit
 ---
@@ -11,7 +8,7 @@ title: RauschZeit
 
 \# alle zwei Wochen donnerstags von 21 - 23h  
 \# electronic'n'noise  
-\# von-und-mit <a href="http://rauschzeit.de/?page_id=1117">AtheB</a> &amp; <a href="http://rauschzeit.de/?page_id=1121">Thedi</a>
+\# von-und-mit [AtheB](/dropdown/djs_atheb.html) &amp; [Thedi](/dropdown/djs_thedi.html)
 
 <p style="text-align: center;"><strong># RauschZeit Nr. 643 am 17.02.2022 von 21h - 23h #</strong></p>
 

@@ -1,0 +1,85 @@
+---
+layout: page
+title: Playlists 2022
+dropdown: Playlists
+priority: 25
+---
+<p><a name="rzpl640"></a> <strong>Playlist der 640. RauschZeit vom 06.01.2022</strong><br />
+01 . Proyecto Mirage - Nibiru<br />
+02 . James P. Keeler - During The Plague<br />
+03 . Max Schreiber - Room 102<br />
+04 . Recon - Mindmelt (Feat. Der Aka Databomb And Marc Spybey Aka Dead Voices On Air)<br />
+05 . Orphx - Cellular Resonance<br />
+06 . Maysev &amp; Matens - Wyvillei<br />
+07 . Zebbler Encanti Experience - Rippie Continuum<br />
+08 . Muadeep - E Dog<br />
+09 . Dead End - Sicke<br />
+10 . Sylac - A New Type Of War<br />
+11 . Battery Duck 202 - Into The Valley Of Smack<br />
+12 . War Scenes - Somniloquist<br />
+13 . Heimstatt Yipotash - Brinkmanship<br />
+14 . MDD - Another Runaway<br />
+15 . Last Days Of S.E.X. - Center Of Attention<br />
+16 . Strobo.Lolita - Ein Schatten Am Rücken<br />
+17 . 88:88 - Lost<br />
+18 . Pille &amp; Sardelle - Look Over The Catch<br />
+19 . Jfrank - Feierabend Lost<br />
+20 . Jentlemen - Worth In Dirt<br />
+21 . Hanssen - Aquaflexin'<br />
+22 . Richard H. Kirk - Network 1<br />
+23 . Boys Be Kko - BIAS Japan<br />
+24 . Soldiers Of Nothingness Knights Exceptional - Slowly Becoming Friends<br />
+25 . Morimoto Naoki - Off<br />
+26 . Compest - Le Souvenir De Jéricho</p>
+<p><a name="rzpl641"></a> <strong>Playlist der 641. RauschZeit vom 20.01.2022</strong><br />
+01 . Current 909 - Last Big Push<br />
+02 . The Rorschach Garden - Molecule Dance<br />
+03 . Slow Comet - Phase Shift<br />
+04 . Serena Butler - People Love Machines In 2029<br />
+05 . Uranio Empobrecido - Cable Operator<br />
+06 . Anthony Rother - Bot For Life<br />
+07 . Keumel - Badman Opps<br />
+08 . Johann Eriksson - Threads<br />
+09 . Steven Shade - Distorted Love (feat. Cara)<br />
+10 . Rozas(AR) - Unanswered<br />
+11 . Dimitri Berzerk - Torrential Fall (Xotox Remix)<br />
+12 . Ultra - Eskal<br />
+13 . DyLab - Your Big Machine<br />
+14 . Stahlschlag - Disbanded (Phil Nova Remix)<br />
+15 . ICD-10 - Hidden Vortex<br />
+16 . Codex Empire - Mental Recession<br />
+17 . Crystal Geometry - Utopia<br />
+18 . Erratic Bhvr - Unspecified Nice Memory<br />
+19 . Sara Landry - Skate<br />
+20 . Malke - Killing Beasts (Satronica Remix)<br />
+21 . Greyhound - Vanished Years<br />
+22 . Grim - Senrigan<br />
+23 . Harm &amp; Heilgeist - Naked Mole Rat<br />
+24 . Masselaufwerk - Endlosrille<br />
+25 . Alarmen - Reclaimed</p>
+<p><a name="rzpl642"></a> <strong>Playlist der 642. RauschZeit vom 03.02.2022</strong><br />
+01 . Noise Unit - Retract (Unreleased Bonus Track)<br />
+02 . FabrikC - Acid Rain<br />
+03 . Weldroid - Astaroth<br />
+04 . 4T Thieves And Pandacetamol - The Electric Home<br />
+05 . Aaron Jasinski - Depth Siren<br />
+06 . Charlton - Low Earth Orbit<br />
+07 . 16Pad Noise Terrorist - Anakr_n1sm<br />
+08 . Mochipet - Rodan Roblox (Kanizzle Remix)<br />
+09 . Limewax - Agent Orange (Pythius Remix)<br />
+10 . Tantrum.Today - Cryptonite<br />
+11 . DJ Hidden - The Nightmare Connector<br />
+12 . Sinister Souls - Judge<br />
+13 . Dolphin & Teknoist - War Track VIP<br />
+14 . Deathmachine - The Bleeding Edge<br />
+15 . Killbourne - Society Scandal<br />
+16 . KRL MX - 909 For My Valentina (Original Mix)<br />
+17 . Der Cherep - Incarnate<br />
+18 . Big Room Space - Insomnia<br />
+19 . Sedatic - Quantum<br />
+20 . Gimmik - Le Ciel<br />
+21 . Notstandskomittee - Educational<br />
+22 . Kinimod - Track 12<br />
+23 . Cluster Lizard - Free Will And Command<br />
+24 . Templ3r - I Shared A Whisky With A Ghost<br />
+25 . D-Fried - Love Ho (Nefon Tapes Transformation Two)</p>

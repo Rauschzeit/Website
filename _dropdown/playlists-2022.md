@@ -266,7 +266,7 @@ priority: 25
 21 . Tokee - Aquarium<br />
 22 . The Mayors Of Nothing - Rebooting Again<br />
 23 . Moth Equals - Hinterland</p>
-<p><a name="rzpl651"></a> <strong>Playlist der 651. RauschZeit vom 29.06.2022</strong><br />
+<p><a name="rzpl651"></a> <strong>Playlist der 651. RauschZeit vom 09.06.2022</strong><br />
 01 . Vought - Duskish<br />
 02 . Emerging Patterns - Stubborn Homonculus<br />
 03 . The Rorschach Garden - Living Under Blocks<br />

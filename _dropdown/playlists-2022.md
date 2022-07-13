@@ -293,6 +293,58 @@ priority: 25
 24 . Synapscape - Revive<br />
 25 . Xotox - Leben und sterben für Musik aus Strom<br />
 26 . Francis Theberge - I</p>
-<p><a name="rzpl652"></a> <strong>Playlist der 652. RauschZeit vom 07.07.2022</strong><br />
+<p><a name="rzpl652"></a> <strong>Playlist der 652. RauschZeit vom 23.06.2022</strong><br />
+01 . Francis Theberge - IV<br />
+02 . Inyan - The Raccoon (Signalstoerung Remix)<br />
+03 . Autoclav1.1 - Dead Air (feat.Sven Phalanx)<br />
+04 . Matter - Maximization<br />
+05 . Supersimmetria - Replication<br />
+06 . Gamlaskatten - Solitary<br />
+07 . Synapscape - Wastelands<br />
+08 . Sans-Fin - Conduire (Blac Kolor Remix)<br />
+09 . Monolith - Rising Sun<br />
+10 . Katran - Centre Circle<br />
+11 . Crystal Geometry - The Threshold<br />
+12 . Code:Red - No Compromise (feat. Killer MC)<br />
+13 . James F - Heaven And Hell<br />
+14 . Last Days Of S.E.X. - Dopamine Low<br />
+15 . Distortion Six - Hurt<br />
+16 . Dirty K - Noize Beats & Chaos (Update)<br />
+17 . Stahlschlag - Madness (Ultra Remix)<br />
+18 . Greyhound - Self-Optimization<br />
+19 . Xotox - Leben und Sterben für Musik aus Strom (Defaults Remix)<br />
+20 . Kuvera B - Broken Machines<br />
+21 . Trackologists - Suicide With Plastic Gun (Philipp Münch Remix)<br />
+22 . Nekrokick - Cicatrix<br />
+23 . Sara Landry - Existential Crisis<br />
+24 . Proyecto Mirage - Handle Chaos<br />
+25 . Audible Masticators - Doors Of Deception</p>
+<p><a name="rzpl653"></a> <strong>Playlist der 653. RauschZeit vom 07.07.2022</strong><br />
+01 . Trackologists - What Is Your Purpose Feat. The_Empatt<br />
+02 . M422 - Albumuth Boulevard<br />
+03 . Nith Haiah - La Dama<br />
+04 . Növö - The Shortwaves (Mass Propaganda Mix By Flood Veyor)<br />
+05 . Proyecto Mirage - Handle Chaos<br />
+06 . Maedon - Vorsicht<br />
+07 . Trunkline - More Perc<br />
+08 . Ontal - Jackhammer<br />
+09 . Ritzi Lee - Unification<br />
+10 . ICD-10 - Ishimura<br />
+11 . Dasha Rush - Romance 22<br />
+12 . Big Room Space - Insomnia<br />
+13 . Max Durante - Mondo Violento<br />
+14 . Local Suicide & Skelesys - You Are Mine (Autumns Club Remix)<br />
+15 . Unknownfunction - Circulate<br />
+16 . Amalgameted Cadaver - Reanimated Awakening (Gothsicles Remix)<br />
+17 . Edgar De Ramon - Relative Time (Christina Sealey Remix)<br />
+18 . Aki Himanen & Aleksi Kinnunen - Uneasy Tones<br />
+19 . Traversable Wormhole - Rotation Frequency<br />
+20 . Cubic - A (Alfa Mix)<br />
+21 . Jeremy Inkel - House Party On Day 2<br />
+22 . b0t23 - Not In A Band<br />
+23 . ZEI - TON 618<br />
+24 . Vanitas - Füzoku<br />
+25 . Eeem [eim] - Between Endpoints</p>
+<p><a name="rzpl654"></a> <strong>Playlist der 654. RauschZeit vom 21.07.2022</strong><br />
 <br />tba.<br />
 </p>

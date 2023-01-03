@@ -43,6 +43,7 @@ avatar: off
 highlighter_theme: monokai
 
 toolbar_priority:
+  - Blog-Archiv
   - Über uns
   - DJs
   - Playlists

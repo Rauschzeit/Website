@@ -26,7 +26,7 @@ priority: 25
 19 . Somatic Responses - I Should Be Doing Some REAL Work<br />
 20 . Freundes-Cassetten-Dienst - Amt<br />
 21 . Freundes-Cassetten-Dienst - Vesper<br />
-22 . Thedi - Vespertime<br />
+22 . Thedi - Vespertime<br /></p>
 <p><a name="rzpl667"></a> <strong>Playlist der 667. RauschZeit vom 19.01.2023</strong><br />
 01 . User48736353001 - Japan<br />
 02 . Matens - Opal<br />
@@ -55,7 +55,7 @@ priority: 25
 25 . Dart - Twinkledub<br />
 26 . Internal Fusion - Waissad (Extract)<br />
 27 . The [law-rah] Collective - Tess (Extract)<br />
-28 . Daniel Blomqvist - Decay<br />
+28 . Daniel Blomqvist - Decay<br /></p>
 <p><a name="rzpl668"></a> <strong>Playlist der 668. RauschZeit vom 02.02.2023</strong><br />
 01 . Wesenberg - Tide Will Rise And Fall Along The Bay<br />
 02 . Autoclav1.1 - At A Glance<br />
@@ -82,7 +82,7 @@ priority: 25
 23 . Brutalismus 3000 - Romantika<br />
 24 . Unicorn Partisans - The Girl<br />
 25 . KiEw - Precinct 17 (Feat. Blurred Twin) (Björn Peng Remix)<br />
-26 . Morin Heights Doom Quintet - No Talk (Feat. INYAN)<br />
+26 . Morin Heights Doom Quintet - No Talk (Feat. INYAN)<br /></p>
 <p><a name="rzpl669"></a> <strong>Playlist der 669. RauschZeit vom 16.02.2023</strong><br />
 01 . Cubic - Asteroids (Metroland Mix Part 1)<br />
 02 . Voldo - Skogsgraet<br />
@@ -109,7 +109,7 @@ priority: 25
 23 . User48736353001 - 1 p-string<br />
 24 . Ritzi Lee - Re-Formation<br />
 25 . Shed - Absolute<br />
-26 . Greg Dallas & Jan Esbra - High Tide<br />
+26 . Greg Dallas & Jan Esbra - High Tide<br /></p>
 <p><a name="rzpl670"></a> <strong>Playlist der 670. RauschZeit vom 02.03.2023</strong><br />
 01. Rendered - Stronger<br />
 02. Grodock - Willkommenheißung<br />
@@ -135,7 +135,7 @@ priority: 25
 22. Monolog - Open Blade Return<br />
 23. Nullvektor - Schleifmühle<br />
 24. Dazzling Malicious - Infinite Corridor Of Thoughts<br />
-25. EXM - Ioeides<br />
+25. EXM - Ioeides<br /></p>
 <p><a name="rzpl671"></a> <strong>Playlist der 671. RauschZeit vom 16.03.2023</strong><br />
 01 . Dystopiker & Nyppy - A Lesson In Rudimentary Phenomenology<br />
 02 . Autoclav1.1 - The Futile<br />
@@ -161,7 +161,7 @@ priority: 25
 22 . Mono No Aware - It's Over (Hypnoskull Remix)<br />
 23 . Sleaford Mods - I Don't Rate You (Orbital Remix)<br />
 24 . After White Smoke - Compulsion<br />
-25 . WXR_JR - We Are All Lost<br />
+25 . WXR_JR - We Are All Lost<br /></p>
 <p><a name="rzpl672"></a> <strong>Playlist der 672. RauschZeit vom 30.03.2023</strong><br />
 01 . This Morn' Omina - Nadistuti Sukta<br />
 02 . Immortal Television - Peaceful, Atom<br />
@@ -184,7 +184,7 @@ priority: 25
 19 . Jeff Mills - Transformation The Aftershock And Evil<br />
 20 . Internal Fusion - Mais Qui étes Vous? #5<br />
 21 . John Louis Kluck - Illusions<br />
-22 . Formax Void - Dream The Void<br />
+22 . Formax Void - Dream The Void<br /></p>
 <p><a name="rzpl673"></a> <strong>Playlist der 673. RauschZeit vom 13.04.2023</strong><br />
 01 . Dystopiker & Nyppy - The Genius<br />
 02 . Alarmen - Crosstalk<br />
@@ -207,7 +207,7 @@ priority: 25
 19 . Scalameriya - Farewell Refrain<br />
 20 . Unicorn Partisans - Out Of Burnout<br />
 21 . Sleaford Mods - UK Grim<br />
-22 . Monolith - Immortal (Edit Version)<br />
+22 . Monolith - Immortal (Edit Version)<br /></p>
 <p><a name="rzpl674"></a> <strong>Playlist der 674. RauschZeit vom 27.04.2023</strong><br />
 01. Gerda Orden - Shackles And Chains<br />
 02. Somatic Responses - User Drone 1<br />
@@ -233,7 +233,7 @@ priority: 25
 22. Occeur - Radical<br />
 23. Eeem [eim] - Le Cycle De La Matière<br />
 24. Christina Kubisch - La Nuit De L'Arène<br />
-25. Bastian Dietz - Alarmtag Im Vogelpark (Ansichten)<br />
+25. Bastian Dietz - Alarmtag Im Vogelpark (Ansichten)<br /></p>
 <p><a name="rzpl675"></a> <strong>Playlist der 675. RauschZeit vom 11.05.2023</strong><br />
 01 . Dragon - Collapsing Code<br />
 02 . the_empath - Supermassiph<br />
@@ -258,7 +258,7 @@ priority: 25
 21 . Nekrokick - Bricks<br />
 22 . Monya - Ein Zustand (Crystal Geometry Remix)<br />
 23 . Desert Drone - Killed Empathy<br />
-24 . Eardrops - The Space Between<br />
+24 . Eardrops - The Space Between<br /></p>
 <p><a name="rzpl676"></a> <strong>Playlist der 676. RauschZeit vom 25.05.2023</strong><br />
 01 . Ah Cama-Sotz - Hidden Roots<br />
 02 . Nørbak - Retrato<br />
@@ -281,5 +281,6 @@ priority: 25
 19 . Developer - No Traitors<br />
 20 . UVB - Romance On The Battleground<br />
 21 . Freeman 713 - Hive City<br />
-22 . Captain Pastek - Don Et Retrait<br />
+22 . Captain Pastek - Don Et Retrait<br /></p>
 <p><a name="rzpl677"></a> <strong>Playlist der 677. RauschZeit vom 08.06.2023</strong><br />
+</p>

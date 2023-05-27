@@ -186,5 +186,100 @@ priority: 25
 21 . John Louis Kluck - Illusions<br />
 22 . Formax Void - Dream The Void<br />
 <p><a name="rzpl673"></a> <strong>Playlist der 673. RauschZeit vom 13.04.2023</strong><br />
-
+01 . Dystopiker & Nyppy - The Genius<br />
+02 . Alarmen - Crosstalk<br />
+03 . Spherical Disrupted - Quartzite (Supersimmetria Remix)<br />
+04 . Mandelbrot - Eine kranke Idee<br />
+05 . Morin Heights Doom Quintet - Nothing Is Hurt, Nothing Is Lost (feat. Myrkrid)<br />
+06 . Hologram_ - Third Piece Of The Puzzle (What's Missing Remix By Eva3 And Riotmiloo)<br />
+07 . Synapscape - Of Facts And Circumstances<br />
+08 . Phasenmensch & Antoine-Saint-Martin - Entering The Tower<br />
+09 . Sylvgheist Maëlström - Döstädning<br />
+10 . Ah Cama-Sotz - I:Travel<br />
+11 . Cervello Elettronico vs Veldt - Mask<br />
+12 . Sans-Fin - Se Ruiner<br />
+13 . Greyhound - Illusion Of Truth<br />
+14 . Strobo.Lolita - Hin und weg<br />
+15 . Monya - Einweg Ausweg Ende (with Hypnoskull)<br />
+16 . Mortaja - Smashed (Hardline Mix)<br />
+17 . Crystal Geometry - The Threshold<br />
+18 . Olympic Pool Maintenance League - Brancusi's Kiss<br />
+19 . Scalameriya - Farewell Refrain<br />
+20 . Unicorn Partisans - Out Of Burnout<br />
+21 . Sleaford Mods - UK Grim<br />
+22 . Monolith - Immortal (Edit Version)<br />
 <p><a name="rzpl674"></a> <strong>Playlist der 674. RauschZeit vom 27.04.2023</strong><br />
+01. Gerda Orden - Shackles And Chains<br />
+02. Somatic Responses - User Drone 1<br />
+03. Vincento Pizzi - Overture & Manifesto<br />
+04. Drowned Memories - Emerging<br />
+05. Tapefeed - Lidocaine<br />
+06. Orphx - All Rivers At Once<br />
+07. Confluencia - Impasible<br />
+08. Mystics - MmhMmmh<br />
+09. Monolith - The Sky Turns Red<br />
+10. Edgar De Ramon - Rave Again (Tensai Remix)<br />
+11. PWCCA - Test For Randomness<br />
+12. Angel Attack - Come To Me<br />
+13. Shrouds - Torn Apart<br />
+14. Flesh Interface - Eradicated<br />
+15. ADJ - Natural State<br />
+16. LKPAS & Hiroshi Matsui - Dirty Neptune<br />
+17. Paul Avarez - Butterflies In The Sky<br />
+18. Zainetica - Signals<br />
+19. The Allegorist - Moving Forward (Snakes Of Russia Rework)<br />
+20. QuadratoX - Spartium & Lilium<br />
+21. AkMD - The Mask (Exclusive)<br />
+22. Occeur - Radical<br />
+23. Eeem [eim] - Le Cycle De La Matière<br />
+24. Christina Kubisch - La Nuit De L'Arène<br />
+25. Bastian Dietz - Alarmtag Im Vogelpark (Ansichten)<br />
+<p><a name="rzpl675"></a> <strong>Playlist der 675. RauschZeit vom 11.05.2023</strong><br />
+01 . Dragon - Collapsing Code<br />
+02 . the_empath - Supermassiph<br />
+03 . Wesenberg - Tide Will Rise And Fall Along The Bay<br />
+04 . Ner.Ogris - Inicio<br />
+05 . TET Travailleur En Trance - Cybertronic Man (USB Preview '19)<br />
+06 . Damascus Knives - /Untitled/<br />
+07 . Noise Unit - K7<br />
+08 . TC75 - Your Skin<br />
+09 . Mortaja - Smashed<br />
+10 . Daniel Myer - Atomic Overkill<br />
+11 . Blac Kolor - Final Surge<br />
+12 . Xotox - Die Strömung der Welt (Single Version)<br />
+13 . Katran - Mirror Reflection (Version)<br />
+14 . Strobo.Lolita - Unordentliche Extreme<br />
+15 . Nacasat - Urban Collapse<br />
+16 . Ryuroido - Artifact<br />
+17 . Yari Greco - Where Hands Touch (Vocal Mix)<br />
+18 . Andreevka - Asphyxiant<br />
+19 . Synapscape - Peyote Calls<br />
+20 . Ohrdohrböhrer - A Place For Flowers In The Abyss<br />
+21 . Nekrokick - Bricks<br />
+22 . Monya - Ein Zustand (Crystal Geometry Remix)<br />
+23 . Desert Drone - Killed Empathy<br />
+24 . Eardrops - The Space Between<br />
+<p><a name="rzpl676"></a> <strong>Playlist der 676. RauschZeit vom 25.05.2023</strong><br />
+01 . Ah Cama-Sotz - Hidden Roots<br />
+02 . Nørbak - Retrato<br />
+03 . Ex.Hale - Synthetic Blue<br />
+04 . Orphx - Man Of Sorrows<br />
+05 . Rawkorder - Sonic Aussault<br />
+06 . Monolith - The Mighty Gods<br />
+07 . Statiqbloom - Capacity Of Brutality<br />
+08 . Confluencia - Perplejo<br />
+09 . Kike Prawda - Rotational<br />
+10 . PWCCA - Wrong Destination<br />
+11 . Crystal Geometry - Hopeless<br />
+12 . Rodder - No Place<br />
+13 . Izan Hesse - Blue Room<br />
+14 . ICD-10 - Welcome To The Pit<br />
+15 . Tapefeed - Stoned Face Hysteria<br />
+16 . Maedon - What You Want (Rüdersdorf Trip)<br />
+17 . Monya - Ein Zustand<br />
+18 . Jokasti & Nek - Sleep Spindles<br />
+19 . Developer - No Traitors<br />
+20 . UVB - Romance On The Battleground<br />
+21 . Freeman 713 - Hive City<br />
+22 . Captain Pastek - Don Et Retrait<br />
+<p><a name="rzpl677"></a> <strong>Playlist der 677. RauschZeit vom 08.06.2023</strong><br />

@@ -16,7 +16,7 @@ Emailkontakt:<br><br />
 atheb@rauschzeit.de<br><br />
 <br><br />
 Link zum Impressum:<br><br />
-http://rauschzeit.de/?page_id=36</span></p>
+http://www.rauschzeit.de/impressum.html</span></p>
 <h3 id="dsg-general-datatype">Arten der verarbeiteten Daten</h3>
 <p>-	Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).<br><br />
 -	Kontaktdaten (z.B., E-Mail, Telefonnummern).<br><br />
@@ -92,8 +92,9 @@ Ein genereller Widerspruch gegen den Einsatz der zu Zwecken des Onlinemarketing 
 <br><br />
 Sofern die Daten nicht gelöscht werden, weil sie für andere und gesetzlich zulässige Zwecke erforderlich sind, wird deren Verarbeitung eingeschränkt. D.h. die Daten werden gesperrt und nicht für andere Zwecke verarbeitet. Das gilt z.B. für Daten, die aus handels- oder steuerrechtlichen Gründen aufbewahrt werden müssen.</p>
 <h3 id="dsg-general-changes">Änderungen und Aktualisierungen der Datenschutzerklärung</h3>
-<p>Wir bitten Sie sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu informieren. Wir passen die Datenschutzerklärung an, sobald die Änderungen der von uns durchgeführten Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die Änderungen eine Mitwirkungshandlung Ihrerseits (z.B. Einwilligung) oder eine sonstige individuelle Benachrichtigung erforderlich wird.</p></p>
-<h3 id="dsg-ga-googleanalytics">Google Analytics</h3></p>
+<p>Wir bitten Sie sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu informieren. Wir passen die Datenschutzerklärung an, sobald die Änderungen der von uns durchgeführten Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die Änderungen eine Mitwirkungshandlung Ihrerseits (z.B. Einwilligung) oder eine sonstige individuelle Benachrichtigung erforderlich wird.</p>
+
+<h3 id="dsg-ga-googleanalytics">Google Analytics</h3>
 <p><span class="ts-muster-content">Wir setzen Google Analytics, einen Webanalysedienst der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland („Google“) ein. Google verwendet Cookies. Die durch das Cookie erzeugten Informationen über Benutzung des Onlineangebotes durch die Nutzer werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.<br><br />
 <br><br />
 Google wird diese Informationen in unserem Auftrag benutzen, um die Nutzung unseres Onlineangebotes durch die Nutzer auszuwerten, um Reports über die Aktivitäten innerhalb dieses Onlineangebotes zusammenzustellen und um weitere, mit der Nutzung dieses Onlineangebotes und der Internetnutzung verbundene Dienstleistungen, uns gegenüber zu erbringen. Dabei können aus den verarbeiteten Daten pseudonyme Nutzungsprofile der Nutzer erstellt werden.<br><br />

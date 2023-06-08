@@ -8,11 +8,11 @@ priority: 26
 01 . Faithless - Insomnia (Moody Mix)<br />
 02 . Faithless - Insomnia (Monster Radio Edit)<br />
 03 . Lutz Berger - 666<br />
-04 . Front 242 - Seq666 <P><br />
-05 . Front 242 - Seq666 <U><br />
-06 . Front 242 - Seq666 <L><br />
-07 . Front 242 - Seq666 <S><br />
-08 . Front 242 - Seq666 <E><br />
+04 . Front 242 - Seq666 &lt;P&gt;<br />
+05 . Front 242 - Seq666 &lt;U&gt;<br />
+06 . Front 242 - Seq666 &lt;L&gt;<br />
+07 . Front 242 - Seq666 &lt;S&gt;<br />
+08 . Front 242 - Seq666 &lt;E&gt;<br />
 09 . Velvet Acid Christ - Zix Zix Zix (666 Mix)<br />
 10 . TR-666 - Gauntlet<br />
 11 . Outdated-666 - Doom My Core<br />

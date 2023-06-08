@@ -10,8 +10,11 @@ title: RauschZeit
 \# electronic'n'noise  
 \# von-und-mit [AtheB](/dropdown/djs_atheb.html) &amp; [Thedi](/dropdown/djs_thedi.html)
 
-<p style="text-align: left;"><strong>
-# RauschZeit Nr. 676<br />
-# 27.03.2023 von 21h - 23h</strong></p>
+<p style="text-align: left;">
+    <strong>
+        # RauschZeit Nr. 678<br />
+        # 22.06.2023 von 21h - 23h
+    </strong>
+</p>
 
 <img class="aligncenter" style="border: 0px none;" src="/uploads/2021/05/RZ_OnAir_3.jpg" alt="" width="600" height="448" border="0" />

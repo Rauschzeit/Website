@@ -4,10 +4,14 @@ title: RauschZeit
 ---
 
 \# hier gibt es Infos und Playlists zur RauschZeit  
-\# Musikspezialsendung auf Radio ZuSa seit Mai 1997
+\# Musikspezialsendung auf Radio ZuSa 
 
-\# alle zwei Wochen donnerstags von 21 - 23h  
-\# electronic'n'noise  
+    <strong>
+        \# alle zwei Wochen donnerstags von 21 - 23h  
+        \# electronic'n'noise  
+    </strong>
+
+\# seit Mai 1997
 \# von-und-mit [AtheB](/dropdown/djs_atheb.html) &amp; [Thedi](/dropdown/djs_thedi.html)
 
 <p style="text-align: left;">

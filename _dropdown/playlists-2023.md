@@ -312,7 +312,7 @@ priority: 26
 <p><a name="rzpl678"></a> <strong>Playlist der 678. RauschZeit vom 22.06.2023</strong><br />
 01 . <br />
 02 . <br />
-03 . <br />
+03 . <br /></p>
 <p><a name="rzpl679"></a> <strong>Playlist der 679. RauschZeit vom 06.07.2023</strong><br />
 01 . The Prodigy - Medusa's Path<br />
 02 . The Allegorist - Barefoot<br />
@@ -342,7 +342,61 @@ priority: 26
 26 . Access To Arasaka - Blue Nine<br />
 27 . Unterm Rad - Contender<br />
 28 . John Louis Kluck - In Time<br />
-29 . David Cordero & Combray - Sinai<br />
+29 . David Cordero & Combray - Sinai<br /></p>
 <p><a name="rzpl680"></a> <strong>Playlist der 680. RauschZeit vom 20.07.2023</strong><br />
-to be played.<br />
-</p>
+01 . Ultra - Untergrund<br />
+02 . Ah Cama-Sotz - Signal/Noise/Resistance<br />
+03 . Blac Kolor - Master Of Moon<br />
+04 . Oneirich - Evolution Of Machine Learning<br />
+05 . Daniel Myer - We Are Going Down<br />
+06 . Anechoic - Geocentric Orbit<br />
+07 . Void:r - Gestohlene Zeit<br />
+08 . Gamlaskatten - Perished<br />
+09 . Monya - Ich will schwitzen<br />
+10 . Schwefelgelb - Dann kommt der Schleier<br />
+11 . Orphx - In The Presence<br />
+12 . Die Tödin - Einswerden mit dem Schmerz<br />
+13 . Qphoriq - I Don't See Shit (The Exaltics Remix)<br />
+14 . Stahlschlag - Burned<br />
+15 . Patricia Gurband - Entering Vision<br />
+16 . Andi - Liebesträume<br />
+17 . neat_less - Be Sure<br />
+18 . Stanley Hottek - Unkown Origin<br />
+19 . Andreevka - Junk DNA<br />
+20 . Last Days Of S.E.X - Grounded<br />
+21 . Maschinenkrieger KR52 - Halo<br />
+22 . Greyhound - Self-Optimization<br />
+23 . Die Frösche - Quak 03<br />
+24 . Nacasat - Through The Void And Far Away<br />
+25 . Proyecto Mirage - Plastic Legs<br />
+26 . INYAN - Thunder<br />
+27 . Evadnè - Blue 13-14<br /></p>
+<p><a name="rzpl681"></a> <strong>Playlist der 681. RauschZeit vom 03.08.2023</strong><br /></p>
+01 . MasCon - Pausenclown<br />
+02 . OvO - La Morte Muore, Pt.1<br />
+03 . Keepsakes - Spit Exchange<br />
+04 . Tensal - Imperia<br />
+05 . ASEC - Guilt Can't Shape The Future<br />
+06 . Rene Wise - Smashing Around<br />
+07 . Nørbak - Verdade Absoluta<br />
+08 . Radial - Analog Supplies<br />
+09 . Confluencia - Perplejo<br />
+10 . VSK - Nebulosa<br />
+11 . SHXCXCHCXSH - Röd Sol<br />
+12 . Milo Raad - Turnover<br />
+13 . Uun - Rehe<br />
+14 . Sebastian Kramer - Refrak<br />
+15 . Jokasti & Nek - Emmanuel<br />
+16 . Kamikaze Space Programme - SCRAM<br />
+17 . Mystics - Not Here<br />
+18 . Endlec - Rotten Nation<br />
+19 . Raffaele Attanasio - Rukbat<br />
+20 . Jaraossa - VCA<br />
+21 . PWCCA - Base Error<br />
+22 . Mist Gasp - Blinked<br />
+23 . Klankman - Escape From Samsara<br />
+24 . Alexander Kowalski - The Carbon Boy<br />
+25 . Quelza - La Chorégraphie Du Soleil<br />
+26 . Operator - Metal Moon<br /></p>
+<p><a name="rzpl682"></a> <strong>Playlist der 682. RauschZeit vom 17.08.2023</strong><br />
+coming soon</p>

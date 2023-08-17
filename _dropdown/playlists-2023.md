@@ -309,7 +309,11 @@ priority: 26
 24 . Eardrops - The Space Between<br />
 25 . Origin Of Styx - I Kinda Like It When A Lotta People Die<br />
 26 . Raz Ohara - Bardot<br /></p>
-<p><a name="rzpl678"></a> <strong>Playlist der 678. RauschZeit vom 06.07.2023</strong><br />
+<p><a name="rzpl678"></a> <strong>Playlist der 678. RauschZeit vom 22.06.2023</strong><br />
+01 . <br />
+02 . <br />
+03 . <br />
+<p><a name="rzpl679"></a> <strong>Playlist der 679. RauschZeit vom 06.07.2023</strong><br />
 01 . The Prodigy - Medusa's Path<br />
 02 . The Allegorist - Barefoot<br />
 03 . Lster - Cruising Through<br />
@@ -339,6 +343,6 @@ priority: 26
 27 . Unterm Rad - Contender<br />
 28 . John Louis Kluck - In Time<br />
 29 . David Cordero & Combray - Sinai<br />
-<p><a name="rzpl679"></a> <strong>Playlist der 679. RauschZeit vom 20.07.2023</strong><br />
+<p><a name="rzpl680"></a> <strong>Playlist der 680. RauschZeit vom 20.07.2023</strong><br />
 to be played.<br />
 </p>

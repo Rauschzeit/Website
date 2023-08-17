@@ -5,19 +5,17 @@ title: RauschZeit
 
 \# hier gibt es Infos und Playlists zur RauschZeit  
 \# Musikspezialsendung auf Radio ZuSa 
-
-    <strong>
-        \# alle zwei Wochen donnerstags von 21 - 23h  
-        \# electronic'n'noise  
-    </strong>
-
+<br /><br />
+\# alle zwei Wochen donnerstags von 21 - 23h  
+\# electronic'n'noise  
+<br /><br />
 \# seit Mai 1997
 \# von-und-mit [AtheB](/dropdown/djs_atheb.html) &amp; [Thedi](/dropdown/djs_thedi.html)
 
 <p style="text-align: left;">
     <strong>
-        # RauschZeit Nr. 680<br />
-        # 03.08.2023 von 21h - 23h
+        # RauschZeit Nr. 682<br />
+        # 17.08.2023 von 21h - 23h
     </strong>
 </p>
 

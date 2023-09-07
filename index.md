@@ -14,8 +14,8 @@ title: RauschZeit
 
 <p style="text-align: left;">
     <strong>
-        # RauschZeit Nr. 682<br />
-        # 17.08.2023 von 21h - 23h
+        # RauschZeit Nr. 684<br />
+        # 14.09.2023 von 21h - 23h
     </strong>
 </p>
 

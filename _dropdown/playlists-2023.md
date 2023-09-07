@@ -399,4 +399,58 @@ priority: 26
 25 . Quelza - La Chorégraphie Du Soleil<br />
 26 . Operator - Metal Moon<br /></p>
 <p><a name="rzpl682"></a> <strong>Playlist der 682. RauschZeit vom 17.08.2023</strong><br />
+01 . Audible Masticators - Until Drone Do Us Part (INYAN Rework)<br />
+02 . Equal Form - Zero Gravity<br />
+03 . Clyme - Inside Your Mind<br />
+04 . neat_less - Roses<br />
+05 . Fever Ray - Shiver (Ivory Remix)<br />
+06 . the_empath - Hypernova<br />
+07 . Anthony Rother - Technologie<br />
+08 . Daniel Myer - Ursprung (with Skelesys)<br />
+09 . Stanley Hottek - Relevant Emphasis<br />
+10 . Orphx - Sau Zuk<br />
+11 . Void:r - Nachtzug<br />
+12 . Schwefelgelb - Das ist Wellness<br />
+13 . Crystal Geometry - Ideologies Ablaze<br />
+14 . Xotox - Erkenntnis<br />
+15 . Ultra - Stracks<br />
+16 . Stromtod - Zeit (Remix by Sans-Fin)<br />
+17 . Brutalismus 3000 - Safe Space<br />
+18 . Alle werden fallen - Techno City<br />
+19 . Celt Islam - Starman<br />
+20 . Mekronikal - Damager<br />
+21 . KiEw - Getting Angry<br />
+22 . Kid Knorke & Betty Bluescreen - Aliens<br />
+23 . Naomi Sample & The Go Go Ghosts - Wer löscht den Kabelbrand?<br />
+24 . Callisto Ghost - The Pasttracker (C63 Mix)<br /></p>
+<p><a name="rzpl683"></a> <strong>Playlist der 683. RauschZeit vom 31.08.2023</strong><br />
+01 . ESA - Hyena (Infected Sound System Remix)<br />
+02 . Atrox - Kälteschlaf<br />
+03 . Behrooz Moosavi - The Days are Dark Still<br />
+04 . Infelix - Bled White<br />
+05 . 自己破壊 - Soul<br />
+06 . Acidrodent - Ghost Stories For Breakfast<br />
+07 . Barcoder - Sustainment (Demo)<br />
+08 . Kult 303 - Trauma Bond<br />
+09 . Daniel Myer - Wiedergabe<br />
+10 . Johann Caspar Schmidt - Ich demütige Mich vor keiner Macht mehr<br />
+11 . GumGumKing vs Bohemian vs Librarium - Burning<br />
+12 . Ritchie Gambino - I Am Your Boss<br />
+13 . Eighaphoria - 2122<br />
+14 . Zkulptortrax vs DJ Torturhythm - Come Back<br />
+15 . S!CN4RF - Giantblindratking<br />
+16 . James F - Inter Dimensional<br />
+17 . Librarium & Bohemian - Murdered Me (Murmuur Remix)<br />
+18 . k0lya - Full Throttle: Leave it all Behind<br />
+19 . Axkan - Revolution feat UVB<br />
+20 . STATIQBLOOM - Flesh Sacrifice<br />
+21 . Nick Viola - Veilance SS23<br />
+22 . Ex.Hale - Ambasada<br />
+23 . Inigo Kennedy - Copperhead<br />
+24 . Gimenö - DT001 (Hd Substance Remix)<br />
+25 . Zy_Gote - UNMARKED<br />
+26 . Beyond Sensory Experience - Kverulant<br />
+27 . Somatic Responses - Dim Tec<br />
+</p>
+<p><a name="rzpl684"></a> <strong>Playlist der 684. RauschZeit vom 14.09.2023</strong><br />
 coming soon</p>

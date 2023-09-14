@@ -477,5 +477,6 @@ priority: 26
 23 . Lster - Mal Funktion<br />
 24 . Aereogramme - Fireworks (Gabriel's 13th Dream Remix)<br />
 25 . Shramm - Salat<br /></p>
+26 . Konstantin Gropper (Berlin Strings) - Phases<br />
 <p><a name="rzpl685"></a> <strong>Playlist der 685. RauschZeit vom 28.09.2023</strong><br />
 coming soon</p>

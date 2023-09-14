@@ -371,7 +371,7 @@ priority: 26
 25 . Proyecto Mirage - Plastic Legs<br />
 26 . INYAN - Thunder<br />
 27 . Evadnè - Blue 13-14<br /></p>
-<p><a name="rzpl681"></a> <strong>Playlist der 681. RauschZeit vom 03.08.2023</strong><br /></p>
+<p><a name="rzpl681"></a> <strong>Playlist der 681. RauschZeit vom 03.08.2023</strong><br />
 01 . MasCon - Pausenclown<br />
 02 . OvO - La Morte Muore, Pt.1<br />
 03 . Keepsakes - Spit Exchange<br />
@@ -450,7 +450,32 @@ priority: 26
 24 . Gimenö - DT001 (Hd Substance Remix)<br />
 25 . Zy_Gote - UNMARKED<br />
 26 . Beyond Sensory Experience - Kverulant<br />
-27 . Somatic Responses - Dim Tec<br />
-</p>
+27 . Somatic Responses - Dim Tec<br /></p>
 <p><a name="rzpl684"></a> <strong>Playlist der 684. RauschZeit vom 14.09.2023</strong><br />
+01 . Liebknecht - Leipzig<br />
+02 . Voxish - I.A.W.S.<br />
+03 . Access To Arasaka - Blue Nine<br />
+04 . The_Empath - Ergosphere (With Mortaja)<br />
+05 . Plaster - Obscura<br />
+06 . Konkurs - Ordinary Fear<br />
+07 . Order Of The Static Temple - Shadow And Agony<br />
+08 . AXKAN - Emptiness<br />
+09 . Sans-Fin - Faire Le Deuil<br />
+10 . Hezzel - Reality Distorted Two<br />
+11 . Blush Response - Locutus<br />
+12 . MONOLITH - Take Me High<br />
+13 . Ryuroido - Artifact<br />
+14 . Cervello Elettronico - (Heavy) Metal<br />
+15 . AudioFlesh - Get Weird<br />
+16 . Klack - Beat Unity (Future Sound of 1992)<br />
+17 . TweakerRay - The Chase<br />
+18 . Delerium - Of The Tribe<br />
+19 . Smol & Visive - Coming Together<br />
+20 . Boxkitty - Don't Kit<br />
+21 . Firnwald - The Norwegian Touch And Feel<br />
+22 . AtOm_AnT - LaDdEr_Of_LiFe<br />
+23 . Lster - Mal Funktion<br />
+24 . Aereogramme - Fireworks (Gabriel's 13th Dream Remix)<br />
+25 . Shramm - Salat<br /></p>
+<p><a name="rzpl685"></a> <strong>Playlist der 685. RauschZeit vom 28.09.2023</strong><br />
 coming soon</p>

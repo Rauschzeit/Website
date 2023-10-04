@@ -479,4 +479,29 @@ priority: 26
 25 . Shramm - Salat<br />
 26 . Konstantin Gropper (Berlin Strings) - Phases<br /></p>
 <p><a name="rzpl685"></a> <strong>Playlist der 685. RauschZeit vom 28.09.2023</strong><br />
+01 . Prometheus Burning - Left Hand Down<br />
+02 . Petrolio - Saturno Nel Cancro<br />
+03 . Clyme vs . Origin Of Styx - Untitled<br />
+04 . Blac Kolor - Zerschmetterling<br />
+05 . Librarium & Bohemian - Murdered Me (Holmur Remix)<br />
+06 . Kotra - Phase Transitions<br />
+07 . Kirril - Paranoid (Original Mix)<br />
+08 . Artificial Conformity - Delirium Der Angst (Granite Shadow Remix 2)<br />
+09 . Tarxun - Freedom-Fighters' Flock<br />
+10 . Iammynewt - Fire Mouth (feat . Chi)<br />
+11 . Shrouds - Don't Fight<br />
+12 . Last Days Of S.E.X . - Exist<br />
+13 . k0lya - Ovation for Catastrophe<br />
+14 . Hypnoskull - Save the People from the People<br />
+15 . Maschinenkrieger KR52 - Desert<br />
+16 . Dirty K . - Disobedience<br />
+17 . 16 Pad Noise Terrorist - Evilment (Hypnoskull Remix)<br />
+18 . Le Moderniste - The Advent Of Asag<br />
+19 . Schnauz - Le Paysan Rusé<br />
+20 . Four Pi Movement - The Bishop, The Duke, The Magistrate, The President<br />
+21 . Infelix - Bled White<br />
+22 . Origin Of Styx - Pretentious Pseudointellectualism<br />
+23 . Primitik - Sands of Arrakis<br />
+24 . Beequeen - Chorok<br /></p>
+<p><a name="rzpl686"></a> <strong>Playlist der 686. RauschZeit vom 12.10.2023</strong><br />
 coming soon</p>

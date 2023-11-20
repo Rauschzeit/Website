@@ -504,4 +504,64 @@ priority: 26
 23 . Primitik - Sands of Arrakis<br />
 24 . Beequeen - Chorok<br /></p>
 <p><a name="rzpl686"></a> <strong>Playlist der 686. RauschZeit vom 12.10.2023</strong><br />
-coming soon</p>
+01 . Pietro Zollo - Eighth<br />
+02 . INYAN - II<br />
+03 . Hendekagon - IX<br />
+04 . Capsular - Inner Fear<br />
+05 . Kaffee und Kuchen - Augsburger Kaffeegäßchen<br />
+06 . Gazelle Twin - History (Extended Version)<br />
+07 . Chaotalion - Black Skycube<br />
+08 . Krummhörens Kuhlen - Buddikate<br />
+09 . Frett - Flag (Live WIF2022)<br />
+10 . Wackelkontakt - Heal The Split Lip Overnight<br />
+11 . Controlled Bleeding - Lung Dub<br />
+12 . Rumpeln - Das Schweigen der Lärmer<br />
+13 . Synapscape - Instructed To Run<br />
+14 . Xotox - Ich funktioniere<br />
+15 . Greyhound - The Night Falls<br />
+16 . Sonar - Creed<br />
+17 . Imperial Black Unit - God, Ceinture & Miséricorde (Club Edit)<br />
+18 . Supersimmetria - Quantum Fluctuations (Tomohiko Sagae Remix)<br />
+19 . 13th Monkey - Oxidizing<br />
+20 . Desert Drone - The Succube Shadow Around You<br />
+21 . Der Cherep - Terrawatt Clan<br />
+22 . DJ Narotic vs . The Inquisitor - Bring It<br />
+23 . Primitik - Accelerator<br />
+24 . Wackelkontakt - Pad Thai<br /></p>
+<p><a name="rzpl687"></a> <strong>Playlist der 687. RauschZeit vom 26.10.2023</strong><br />
+01 . Globalwavesystem - Wheel [FY23 Guidance]<br />
+02 . Askaira - Uroboros<br />
+03 . Static Logic - Stuck In This Place (Seditious Mix by Angel Of Violence)<br />
+04 . Templer - Galaxy Of Nowhere<br />
+05 . Testube - Cellstem Rewrite (Edit feat . Y-Luk-O)<br />
+06 . Pneumagnosis - Cold Circuits(Cryogenic Mix)<br />
+07 . Dread Risks - Trauma Ties (MORIS BLAK Remix)<br />
+08 . Daniel Myer - Atomic Overkill<br />
+09 . Hezzel - Future Rust<br />
+10 . Blush Response - Dead Zone<br />
+11 . Monolith - Concrete Playground<br />
+12 . Matt Hart - Triolith (ESA Remix)<br />
+13 . CI/Z\IN - Gruesome Skeleton Figure<br />
+14 . Kirril - Faces (Kenny Campbell Remix)<br />
+15 . Sans-Fin - Survol<br />
+16 . Tapefeed - Drone Button Pusher<br />
+17 . Akiko Iwahara - Nase Ba Naru<br />
+18 . Artificial Conformity - Delirium Der Angst - Original Mix<br />
+19 . R-oderick - Laughing Devils<br />
+20 . Matrheim - Celestial War<br />
+21 . Nick Viola - Veilance SS23<br />
+22 . Mist Gasp - Contention<br />
+23 . Oxygeno - Magnetism<br />
+24 . Rødder - No Place (Original Mix)<br />
+25 . Ritzi Lee - Interfacing<br />
+26 . Cryptologic Sludge - 4<br />
+27 . Beyond Sensory Experience - Mute Conclusion<br /></p>
+<br />coming soon<br /><br />
+<p><a name="rzpl688"></a> <strong>Playlist der 688. RauschZeit vom 09.11.2023</strong><br /></p>
+<p><a name="rzpl689"></a> <strong>Playlist der 689. RauschZeit vom 23.11.2023</strong><br /></p>
+
+
+
+
+
+

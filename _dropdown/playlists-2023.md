@@ -557,9 +557,92 @@ priority: 26
 26 . Cryptologic Sludge - 4<br />
 27 . Beyond Sensory Experience - Mute Conclusion<br /></p>
 <br />coming soon<br /><br />
-<p><a name="rzpl688"></a> <strong>Playlist der 688. RauschZeit vom 09.11.2023</strong><br /></p>
-<p><a name="rzpl689"></a> <strong>Playlist der 689. RauschZeit vom 23.11.2023</strong><br /></p>
-
+<p><a name="rzpl688"></a> <strong>Playlist der 688. RauschZeit vom 09.11.2023</strong><br />
+01 . Fail - Paper And Plastic<br />
+02 . Limestone Ziggurat - Native Sands<br />
+03 . INYAN - Modern Witch<br />
+04 . Kid Kozmoe - Knochenplatz<br />
+05 . Francis Theberge - La Trame Sonore Perdue Au Titre Sans Nom Du 12 Janvier 2023<br />
+06 . LamyEyes - Machine Aphrodite<br />
+07 . Quatrefoil  Focus Group Is On Fire<br />
+08 . In Tenebris - Hex<br />
+09 . Andreas Davids - Ein Riss in der Zeit<br />
+10 . Edgey - Sysfault [30 grit]<br />
+11 . Slew52 - Lolest<br />
+12 . Noisesculptor - A Bit<br />
+13 . Wackelkontakt  - De Point<br />
+14 . Der Cherep - Deus Factus Sum<br />
+15 . Daniel Myer - Atomic Overkill<br />
+16 . Blac Kolor - Final Surge<br />
+17 . Olympic Pool Maintenance League - Syntax System<br />
+18 . Hezzel - Define Humane<br />
+19 . Scalameriya - Rokbokx<br />
+20 . Aaron Van Wonterghem - No Way Back<br />
+21 . Stanley Hottek  - Satellite<br />
+22 . Mono No Aware - Kyouran<br />
+23 . Screwed Happenstance - Seagulls Lullaby<br /></p>
+<p><a name="rzpl689"></a> <strong>Playlist der 689. RauschZeit vom 23.11.2023</strong><br />
+01 . SRAMAANA - Sicmundus<br />
+02 . Audible Masticators - Until Drone Do Us Part (INYAN Rework)<br />
+03 . Voxish - The Querulist<br />
+04 . Sephros - Sizzler<br />
+05 . Flesh Interface - Flesh Interface - Eradicated<br />
+06 . Tenebris - Moonlit Waltz<br />
+07 . Plaster - Tenebris<br />
+08 . Sonar - Turn You On<br />
+09 . Blac Kolor - Ujunbater<br />
+10 . M-Sigma - 002_100<br />
+11 . Shrouds - I Hope You Find Me<br />
+12 . STATIQBLOOM - Spectral Dimension<br />
+13 . Templer - Boneshaker<br />
+14 . Oxygeno - Unpunished<br />
+15 . R-oderick - Belial<br />
+16 . Dübël & Schol - BLAHA<br />
+17 . Dübël - ICS<br />
+18 . 16Pad Noise Terrorist - Most Likes<br />
+19 . Enduser - Rotation<br />
+20 . Bong-Ra - Cyclops<br />
+21 . EDGEY - Brutality's End<br />
+22 . Loyd - Fallow<br />
+23 . Collagist - The White Lotus<br />
+24 . Kreazot-Maks - Корень Пиона (Beginning)<br />
+25 . Dragon & Jettenbach - A Moment<br />
+26 . Somatic Responses - Path to Extinction<br /></p>
+<p><a name="rzpl690"></a> <strong>Playlist der 690. RauschZeit vom 07.12.2023</strong><br />
+01 . Francis Théberge & Axophobe - Insomnia (INYAN Remix)<br />
+02 . Sans-Fin - Faire Le Deuil<br />
+03 . Templer - Galaxy Of Nowhere<br />
+04 . Stahlschlag - Apocalypsis<br />
+05 . neat_less - Dogs Do Well<br />
+06 . Gamlaskatten - Transmission 3<br />
+07 . Shrouds - I Hope You Find Me<br />
+08 . Monolith - Revelation<br />
+09 . Mono No Aware - Hossoku<br />
+10 . Nullvektor - Fokus Installiert<br />
+11 . Sonar - Tonight<br />
+12 . Aaron Van Wonterghem - Take Off<br />
+13 . Monya - Wollust<br />
+14 . Riotmiloo - Vile Butterflies<br />
+15 . Yuko Araki - Gravitational Collapse<br />
+16 . Amma Ateria - Kone / Machine<br />
+17 . Capsular - Inner Fear<br />
+18 . .at/on - No Return<br />
+19 . Hendekagon - RS2<br />
+20 . Thedi - VesperTime<br /></p>
+<p><a name="rzpl691"></a> <strong>Playlist der 691. RauschZeit vom 21.12.2023</strong><br />
+01 . SA18 - E5<br />
+02 . Lustmord - Astronomicon<br />
+03 . Xabec - Two<br />
+04 . Celer - Ahead, Later On<br />
+05 . Eardrops - Lustbrot (Remix)<br />
+06 . Earlyguard - The Deity And The Dice<br />
+07 . Tomonari Nozaki - Falling Into The Sea (Extract)<br />
+08 . Red Planet Orchestra - From The Headlands<br />
+09 . Sven Laux - The Emptiness Of Space I<br />
+10 . Symphocat - Caelestis Voces<br />
+11 . Rodney Orpheus - Near To The Heart<br />
+12 . Music For Sleep - Alla Luce<br />
+13 . Eeem [eim] - Orbis<br /></p>
 
 
 

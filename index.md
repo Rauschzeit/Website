@@ -13,8 +13,8 @@ title: RauschZeit
 <br /><br />
 <p style="text-align: left;">
     <strong>
-        # RauschZeit Nr. 689<br />
-        # 23.11.2023 von 21h - 23h
+        # RauschZeit Nr. 692<br />
+        # 04.01.2024 von 21h - 23h
     </strong>
 </p>
 

@@ -13,8 +13,8 @@ title: RauschZeit
 <br /><br />
 <p style="text-align: left;">
     <strong>
-        # RauschZeit Nr. 692<br />
-        # 04.01.2024 von 21h - 23h
+        # RauschZeit Nr. 693<br />
+        # 18.01.2024 von 21h - 23h
     </strong>
 </p>
 

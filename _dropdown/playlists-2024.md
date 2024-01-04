@@ -27,7 +27,7 @@ priority: 27
 20 . [Basementgrrr] - And Sleep Forever<br />
 21 . Constant Current - Untold [Optionica Edit]<br />
 22 . Mareena & JakoJako - Sinnessprung<br />
-23 . Abdicant - Nothing We So Will Persist<br />
+23 . Abdicant - Nothing We Do Will Persist<br />
 24 . Holmur - The Rain<br />
 25 . Macrogramma - Il Mio Sogno É Di Avere I Poteri Elettrici [Original Version]<br /></p>
 

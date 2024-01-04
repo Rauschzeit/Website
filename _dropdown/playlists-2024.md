@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Playlists 2023
+title: Playlists 2024
 dropdown: Playlists
 priority: 27
 ---

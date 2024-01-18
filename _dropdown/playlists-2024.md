@@ -39,7 +39,7 @@ priority: 27
 06 . Khan & Walker - 41m 7100 - 7300 Khz<br />
 07 . Eric Elser - Control<br />
 08 . Dark Comedy - Solace<br />
-09 . Thomas P . Heckmann - Lichtspruch<br />
+09 . Thomas P. Heckmann - Lichtspruch<br />
 10 . MK - Ultra<br />
 11 . The Age Of Love - The Age Of Love (Watch Out For Stella Mix)<br />
 12 . Dorian Knox - Butterfly<br />

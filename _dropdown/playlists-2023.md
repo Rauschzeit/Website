@@ -310,9 +310,10 @@ priority: 26
 25 . Origin Of Styx - I Kinda Like It When A Lotta People Die<br />
 26 . Raz Ohara - Bardot<br /></p>
 <p><a name="rzpl678"></a> <strong>Playlist der 678. RauschZeit vom 22.06.2023</strong><br />
-01 . <br />
-02 . <br />
-03 . <br /></p>
+01 . The_Empath - Darkstar (Feat. Heimstatt Yipotash)<br />
+02 . The_Empath - Utopia (Feat. =mp=45=)<br /><br />
+Abbruch wegen technischer Störungen<br />
+<br /></p>
 <p><a name="rzpl679"></a> <strong>Playlist der 679. RauschZeit vom 06.07.2023</strong><br />
 01 . The Prodigy - Medusa's Path<br />
 02 . The Allegorist - Barefoot<br />

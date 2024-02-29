@@ -13,8 +13,8 @@ title: RauschZeit
 <br /><br />
 <p style="text-align: left;">
     <strong>
-        # RauschZeit Nr. 696<br />
-        # 29.02.2024 von 21h - 23h
+        # RauschZeit Nr. 697<br />
+        # 14.03.2024 von 21h - 23h
     </strong>
 </p>
 

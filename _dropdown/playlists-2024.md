@@ -139,4 +139,79 @@ priority: 27
 37 . TechDiff - SP06.4<br />
 38 . Strom Noir - Standstill<br /></p>
 <p><a name="rzpl697"></a> <strong>Playlist der 697. RauschZeit vom 14.03.2024</strong><br />
-coming soon<br /></p>
+01. Hendekagon - Circular Motion II<br />
+02. Death Awareness Cafe - Just A Wing Flutter In The Wind..<br />
+03. Andreas Davids - The Inability To Be Happy<br />
+04. Disorganism - Burn To Me Perfumes<br />
+05. Riga Dimd - Mija<br />
+06. Riotmiloo - Blackout<br />
+07. Yuko Araki - Magnetar<br />
+08. Phase Fatale - Mass Deception<br />
+09. The Marquis - Formaldehyde<br />
+10. Mortaja - Smashed (Hardline Mix)<br />
+11. Monolith - Take Me High<br />
+12. Sonar - You Get Yours<br />
+13. Sans-Fin - Être Seul<br />
+14. Templer - I Beg You Mountain<br />
+15. Nullvektor - Fokus Installiert<br />
+16. Mono No Aware - Noesis<br />
+17. Last Days Of S.E.X. - Max Pressure<br />
+18. Maschinenkrieger KR52 - Resistance<br />
+19. Fuck You, Scum Fuck - Final Boss<br />
+20. Kaffee und Kuchen - Augsburger Kaffeegäßchen<br /></p>
+<p><a name="rzpl698"></a> <strong>Playlist der 698. RauschZeit vom 28.03.2024</strong><br />
+01 . Maduro - Die As One<br />
+02 . The Allegorist - Through The Forest (Ben Chatwin Rework)<br />
+03 . Low End Resorts - Anxious Now<br />
+04 . Liebknecht - Königsberg<br />
+05 . Blac Kolor - Relikt (feat . Panternoise)<br />
+06 . Matt Hart - Terraform (Sirius Remix)<br />
+07 . Cevin Key - House Tried to KILL ME<br />
+08 . Ether Of Souls - Deny The Light<br />
+09 . Drvg Cvltvre - The World Is On Fire, But We Still Dance Like Twats<br />
+10 . Archon Of The Fairlight - Obscenity (Adam Erebus Remix)<br />
+11 . Void Pulsar - The Chant<br />
+12 . Setalight 12 - Set Me Free (Pain and Pleasure remix by Autoignition)<br />
+13 . Punshukunshu + Meshes - Souls of Torture<br />
+14 . Thomas P . Heckmann - Himmel & Hölle (Scalameriya Remix)<br />
+15 . ICD-10 - Enter the Vault<br />
+16 . Various Artists - Linbo - Falsity Became Our Sport (Digital Only)<br />
+17 . Philipp Münch - get me out!<br />
+18 . Somatic Responses - Blackbird-SR71<br />
+19 . Wieloryb - Mokosz<br />
+20 . Oblicuo - Empate<br />
+21 . Vexillary - By Design<br />
+22 . Raul Alvarez - Bohemian Lights (Original Mix)<br />
+23 . Soseol - Volnost<br />
+24 . Dynamic Forces - Enfant Prodige<br />
+25 . RXmode - Unmanaged (80 remix)<br />
+26 . Maggie.wav - Kzoo VIII 2020<br /></p>
+<p><a name="rzpl699"></a> <strong>Playlist der 699. RauschZeit vom 11.04.2024</strong><br />
+01. Francis Théberge & Axophobe - Automatischer Lärm (Thébru Čelet Remix)<br />
+02. Thierry Arnal - SRFC 01<br />
+03. INYAN - The Racoon In Decline (Fencepost Rework)<br />
+04. Katy Coxwell - Juniper<br />
+05. Disorganism - To Become More Naked<br />
+06. The_Empath - Stellar Tidal Disruption<br />
+07. Yuko Araki - Gravitational Collapse<br />
+08. Anthony Rother - Mad World<br />
+09. Silent Servant - M-90<br />
+10. Gesaffelstein - Tyranny<br />
+11. Ah Cama-Sotz - Hidden Roots<br />
+12. Shrouds - Who Are They<br />
+13. Xotox - Xotoxikologie (Single-Version)<br />
+14. Mono No Aware - Surudoi<br />
+15. Der Cherep - Entrance To The Labyrinth<br />
+16. Monolith - Come To Me<br />
+17. Perc - Imperial Leather<br />
+18. Kid Knorke & Betty Bluescreen - Ausgebrannt<br />
+19. Hugging Hate - Game Over<br />
+20. 16Pad Noise Terrorist - Most Likes<br />
+21. Halter - Origin Of Drum<br />
+22. Alle werden fallen - Techno City<br />
+23. Kotze im Einkaufswagen - Heute ist Donnerstag (Vish'n'Chips Remix by Hugging Hate)<br />
+24. Naomi Sample & The Go Go Ghosts - Wer löscht den Kabelbrand?<br />
+25. Spherical Disrupted - Adrastea (A)<br /></p>
+<p><a name="rzpl700"></a> <strong>Playlist der 700. RauschZeit vom 25.04.2024</strong><br />
+
+<br />coming soon<br /></p>

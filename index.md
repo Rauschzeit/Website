@@ -13,8 +13,8 @@ title: RauschZeit
 <br /><br />
 <p style="text-align: left;">
     <strong>
-        # RauschZeit Nr.699<br />
-        # 11.04.2024 von 21h - 23h
+        # RauschZeit Nr.700<br />
+        # 25.04.2024 von 21h - 23h
     </strong>
 </p>
 

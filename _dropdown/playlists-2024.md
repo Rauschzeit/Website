@@ -213,5 +213,57 @@ priority: 27
 24. Naomi Sample & The Go Go Ghosts - Wer löscht den Kabelbrand?<br />
 25. Spherical Disrupted - Adrastea (A)<br /></p>
 <p><a name="rzpl700"></a> <strong>Playlist der 700. RauschZeit vom 25.04.2024</strong><br />
-
+01 . Synapscape - What Side Are You On<br />
+02 . Cosmic Anarchists - Because I Love You<br />
+03 . Philip Nußbaum - 2und50 (Naked Recording)<br />
+04 . Philipp Münch - Mono Chromatic<br />
+05 . Bogus Blimp - King Inst. King<br />
+06 . Frett - Isolation<br />
+07 . Kursk - Traces of Radiation<br />
+08 . Kirril - Faces (Original Mix)<br />
+09 . STATIQBLOOM - The Earth Drank Blood<br />
+10 . Artificial Conformity - Delirium Der Angst (Granite Shadow Remix 2)<br />
+11 . Esa - Dislocation Of Emotion<br />
+12 . Monix - Crawling Into Her Burning Soul<br />
+13 . Oxygeno - Flames Around<br />
+14 . Rob(u)rang - Tr(I)Hhem Robofull (Imminent Rmx)<br />
+15 . Scarlxrd - Cxld Blxxded [Dirty K . Remix]<br />
+16 . Drugpapa - Everybody needs reason to dance<br />
+17 . Wardyyr - Pointing Finger<br />
+18 . Oblicuo - Empate<br />
+19 . Autechre Für Arme - Heiliger Bim Ban<br />
+20 . Jeff Mills - Contradiction featuring Jun Togawa (Silent Shadow Mix)<br />
+21 . Tanaka - Raaaiouuuzajoooaa<br />
+22 . Damon Wild - Moribund<br />
+23 . Abdicant - Proton Decay<br />
+24 . Morthound - The Age of Crying<br />
+25 . Cryptologic Sludge - 5<br />
+26 . Oval - Fading<br /></p>
+<p><a name="rzpl701"></a> <strong>Playlist der 701. RauschZeit vom 09.05.2024</strong><br />
+01 . Heimstatt Yipotash - Separation<br />
+02 . Szary - Redo<br />
+03 . Cabaret Contemporain - Bora<br />
+04 . Trackologists - Self-Replication<br />
+05 . Syntech - In the Distance<br />
+06 . Eric de Vries - The High Before Decay<br />
+07 . MS Gentur + Sven Phalanx - Bucket Helmet<br />
+08 . Sonar - She's A Stone Killer (Orphx Remix)<br />
+09 . S.K.E.T . - Antagonistic Contradiction<br />
+10 . Sabes - Rat<br />
+11 . Strobo.Lolita - Kein Weg<br />
+12 . Mono No Aware - Lowness 1st Cut<br />
+13 . DIRTY K - GRAPHIC AESTHETIC<br />
+14 . Yura Yura - Kalor<br />
+15 . Last Days Of S.E.X . - Counter Attack<br />
+16 . Maschinenkrieger KR52 - Theme Two<br />
+17 . DJ Alphira - Deine Seele<br />
+18 . Le Moderniste - Untitled 99K-z<br />
+19 . Kippu - Confused<br />
+20 . Esplendor Geométrico - Urgencia<br />
+21 . LKPAS - Dirty Dub Massacre<br />
+22 . DAZZLING MALICIOUS - The Stairwell [Eschers Trap]<br />
+23 . Imminent - Padam<br />
+24 . 5F-X - Element 115 Battery Charger<br />
+25 . The_Empath - Lost Your Cygnal<br /></p>
+<p><a name="rzpl702"></a> <strong>Playlist der 702. RauschZeit vom 23.05.2024</strong><br />
 <br />coming soon<br /></p>

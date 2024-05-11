@@ -557,7 +557,6 @@ Abbruch wegen technischer Störungen<br />
 25 . Ritzi Lee - Interfacing<br />
 26 . Cryptologic Sludge - 4<br />
 27 . Beyond Sensory Experience - Mute Conclusion<br /></p>
-<br />coming soon<br /><br />
 <p><a name="rzpl688"></a> <strong>Playlist der 688. RauschZeit vom 09.11.2023</strong><br />
 01 . Fail - Paper And Plastic<br />
 02 . Limestone Ziggurat - Native Sands<br />

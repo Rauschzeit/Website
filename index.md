@@ -13,8 +13,8 @@ title: RauschZeit
 <br /><br />
 <p style="text-align: left;">
     <strong>
-        # RauschZeit Nr.701<br />
-        # 09.05.2024 von 21h - 23h
+        # RauschZeit Nr.702<br />
+        # 23.05.2024 von 21h - 23h
     </strong>
 </p>
 

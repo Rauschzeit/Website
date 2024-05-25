@@ -266,4 +266,107 @@ priority: 27
 24 . 5F-X - Element 115 Battery Charger<br />
 25 . The_Empath - Lost Your Cygnal<br /></p>
 <p><a name="rzpl702"></a> <strong>Playlist der 702. RauschZeit vom 23.05.2024</strong><br />
+01 . Betty Apple - Run away from the system<br />
+02 . Cosmic Anarchists - We Can Win<br />
+03 . Textbeak - Ordo Sanctus Carnis<br />
+04 . Lunar Node - Ancient Moon<br />
+05 . Front Line Assembly - Molotov<br />
+06 . Architect - Ursuppe (Liebknecht Mix)<br />
+07 . Liebknecht - Berlin<br />
+08 . STATIQBLOOM - Hidden From Form<br />
+09 . S.I.N.A - Gefühlschaos<br />
+10 . Maduro - Die As One<br />
+11 . :Waijdan: - Erase (MORIS BLAK Remix)<br />
+12 . Constant Current - Monstera In Bloom<br />
+13 . Monya - Keine Ruhe<br />
+14 . Anarchotech - Emotion Chip Malfunction<br />
+15 . Gummiwidow / Nosewoman - Powerbottoms<br />
+16 . Deadraver - Let's Rot (126 Bpm)<br />
+17 . Wieloryb - Tribal Order<br />
+18 . MS Gentur + Sven Phalanx - Broken Ed<br />
+19 . PWCCA - Inert Condition<br />
+20 . Mike Opani - Tartaros (Original Mix)<br />
+21 . Echo Spatial - Break Down Prejudice<br />
+22 . Ross Harper - Deep Life<br />
+23 . apaull - Strays<br />
+24 . Mike Opani - Elysium (Original Mix)<br />
+25 . TweakerRay - Conclusion<br />
+26 . Tapana - Dios Dorado<br />
+<p><a name="rzpl70027"></a> <strong>Playlist der Sondersendung RauschZeit #70027 vom 24.05.2024</strong><br />
+01 . 5F-X - Hitchhiker's Groove To The Galaxy<br />
+02 . Jeff Mills - Wandering<br />
+03 . Esplendor Geometrico - A Largo Plazo<br />
+04 . Trackologists - Self-Replication<br />
+05 . MS Gentur & Sven Phalanx - Machine Men<br />
+06 . S.K.E.T . - Madness 2 The Method<br />
+07 . Eric De Vries - The High Before Decay<br />
+08 . Statiqbloom - Face Annihilation<br />
+09 . Greyhound - Excitation Transfer Effect<br />
+10 . Dirty K . - You Think You Know But You Have No Idea<br />
+11 . Artificial Conformity - Delirium Der Angst (Granite Shadow Remix 2)<br />
+12 . Hugging Hate - Live<br />
+13 . Inyan & The Last Odonians - Arbeiterlied<br />
+14 . Thedi & Kate Bosworth - Nothing Used<br />
+15 . Schachtanlage Gegenort - Detachment Dance<br />
+16 . Sonar - Daed Is Always A Waste (Geistform Remix<br />
+17 . Riotmiloo - Vile Butterfly<br />
+18 . Yuko Arraki - Magnetar<br />
+19 . 36 - Blissgrid<br />
+20 . Hoax Believers - Short Circuit<br />
+21 . Lanark Artefax - MESZthread<br />
+22 . Terminal 11 - Disoriented Pivot<br />
+23 . Francois Dillinger & Lloyd Stellar - Design Dreams<br />
+24 . Ole Mic Odd - Don't TakeIt Personal<br />
+25 . Saigg - Destructario<br />
+26 . MiddleMen - Another Think Coming<br />
+27 . Human Rebellion - Light & Shadow (Terrestrian Access Network Remix)<br />
+28 . ManaysT - No 13th Floor<br />
+29 . Greta Wohlfahrt - Bundeswehrattraktivitätssteigerungsgesetz<br />
+30 . Black Spider - Keiner Kommt Hier Lebend Raus<br />
+31 . Monolith - The Hunter<br />
+32 . Gesaffelstein - Psycho<br />
+33 . Monya - Meine Opposition<br />
+34 . Saturmzlide - Floor XXIII<br />
+35 . Fangarm - Forth<br />
+36 . 13th Monkey - Circadian Rhythm<br />
+37 . P.T.B.S . - Take It Back<br />
+38 . Sara Landry - Existential Crisis<br />
+39 . Autiszm & Kader - Loudness Wars<br />
+40 . The Obsessed - 909<br />
+41 . Perc - Full Goblin<br />
+42 . Brutalismus 3000 - Nur mein Körper und die Angst<br />
+43 . Björn Peng - Einzelfall feat . Torsun und Beckx<br />
+44 . Unicorn Partisans - Repression Depression<br />
+45 . Acid Moustache - Angry Moustache<br />
+46 . Alya7h & Utro6 - One-Way Traffic<br />
+47 . Adamant Scream - Exhale<br />
+48 . Tripped - Turbulence<br />
+49 . Librarium &M Bohemian - Murdered Me (Remake)<br />
+50 . Miyuki Omura - Awkward<br />
+51 . Densha Crisis - A Sun That Never Rises<br />
+52 . Khaoz Engine - Monster Truck<br />
+53 . Tugie - Earbanger<br />
+54 . Dolphin Feat . Hellfish - Run It Red<br />
+55 . Ambassador21 - Face Your Future Killers (Deathmachine Remix)<br />
+56 . Axe Gabba Murda Mob - Zero Empathy<br />
+57 . Kilbourne - Plague Raver<br />
+58 . Hellfish - Wickford Wankers<br />
+59 . Corell - Blank Pouring<br />
+60 . Istigkeit - All Your Hopes Are Delusional (Meer Remix)<br />
+61 . Helicopter Face - Calls<br />
+62 . R/D/V - Annapurna<br />
+63 . Shawn Cartier - Quirk<br />
+64 . Istigkeit - Promesses (Night/T\MareRemix)<br />
+65 . Cressida - Myosin<br />
+66 . AmperClap - Collapsed<br />
+67 . Hatch - Chiswick<br />
+68 . Olexii - Degan<br />
+69 . The Innsmooth Shadow - Sleeping Ctuluhu<br />
+70 . B|tong & Claus Poulsen - Nörreport Station<br />
+71 . Mordant Arrow & Neglect - Galatea<br />
+72 . Francis Théberge & Axophobe - Automatischer Lärm (Signalstoerung Remix)<br />
+73 . Naomi Sample & The Go Go Ghost - Get Up Work Sleep Reset<br />
+74 . Torsun & The Stereotronics - Das Ziehe Ich Jetzt Auch Durch<br />
+75 . Kid Knorke & Betty Bluescreen - Game Over<br />
+<p><a name="rzpl703"></a> <strong>Playlist der 703. RauschZeit vom 06.06.2024</strong><br />
 <br />coming soon<br /></p>

@@ -291,7 +291,7 @@ priority: 27
 23 . apaull - Strays<br />
 24 . Mike Opani - Elysium (Original Mix)<br />
 25 . TweakerRay - Conclusion<br />
-26 . Tapana - Dios Dorado<br />
+26 . Tapana - Dios Dorado<br /></p>
 <p><a name="rzpl70027"></a> <strong>Playlist der Sondersendung RauschZeit #70027 vom 24.05.2024</strong><br />
 01 . 5F-X - Hitchhiker's Groove To The Galaxy<br />
 02 . Jeff Mills - Wandering<br />
@@ -367,6 +367,53 @@ priority: 27
 72 . Francis Théberge & Axophobe - Automatischer Lärm (Signalstoerung Remix)<br />
 73 . Naomi Sample & The Go Go Ghost - Get Up Work Sleep Reset<br />
 74 . Torsun & The Stereotronics - Das Ziehe Ich Jetzt Auch Durch<br />
-75 . Kid Knorke & Betty Bluescreen - Game Over<br />
+75 . Kid Knorke & Betty Bluescreen - Game Over<br /></p>
 <p><a name="rzpl703"></a> <strong>Playlist der 703. RauschZeit vom 06.06.2024</strong><br />
+01 . Hendekagon - 47<br />
+02 . MichaAngi - Erde4<br />
+03 . Digitalsakura - 09_künstlichewelten<br />
+04 . Signalstoerung - Occurence I (Extended Version)<br />
+05 . Schachtanlage Gegenort - Dare To Drop II<br />
+06 . Eric De Vries - Maximum Chemical Dose<br />
+07 . Anarchotech - Robot Union Wildcat Strike (Ivardensphere Remix)<br />
+08 . Monya - Extasy<br />
+09 . MS Gentur & Sven Phalanx - Noise Control<br />
+10 . 100blumen - Flowers - Capitalism 1:0<br />
+11 . Sonar - Taking Over<br />
+12 . Multoddhju - Foresta<br />
+13 . Riotmiloo - Voices<br />
+14 . Frett - End Beginning<br />
+15 . Yuko Araki - Sloshing (feat.Taichi Nagura)<br />
+16 . HURE - 1.0<br />
+17 . Kaffee und Kuchen - Mülheim 2 (Thorofon Five O'Clock Mix)<br />
+18 . Eva Kadmon & Séraphitüs-Séraphîta - Subproject 119<br />
+19 . Schwarzer Tag & Eva Petersen - Vertigo<br />
+20 . Audible Masticators & Krummhörens Kuhlen - A14<br />
+21 . The_Empath - Solaris I (With Airbag Killex)<br />
+22 . Krakelee - Kippe<br />
+23 . Francis Théberge - Cryptide (D20+1)<br />
+24 . b°tong / Claus Poulsen - Øresund (Grains In The Pocket Rework By Alarmen)<br /></p>
+<p><a name="rzpl704"></a> <strong>Playlist der 704. RauschZeit vom 20.06.2024</strong><br />
+01 . Bartosz Dziadosz - Event Horizon<br />
+02 . Deaf Machine - Noise Destruction<br />
+03 . Decommissioned Forests - Vampire<br />
+04 . PBK - Only You Fade<br />
+05 . Schachtanlage Gegenort - Stille Im Streb<br />
+06 . Polarlicht 4.1 - Sturmflut<br />
+07 . Letzte Ausfahrt Leben - Prolog<br />
+08 . Letzte Ausfahrt Leben - Epilog<br />
+09 . Krummhörens Kuhlen - Vellern (Nord)<br />
+10 . Thedi - Finissage<br />
+11 . Morgenstern - Touched<br />
+12 . Kaffee Und Kuchen - Mülheim 1 (Sisto Rossi)<br />
+13 . Control - Total War<br />
+14 . Anime Break TV Receptor - Folds Breaking, New Entry Greater Worlds Solidified<br />
+15 . Venta Protesix - Tsundere Delusional Fantasy<br />
+16 . The Hentai Noise Experiments - Ingratiate<br />
+17 . Spherical Disrupted - Pojektor (Cut+Go=Rmx #1 Remix By Carsten Vollmer)<br />
+18 . Eyerolls & Febrile - Copaganda Of Desire<br />
+19 . Lethal Frequency - Começo Acústico 6<br />
+20 . Bidol Cath - A3<br />
+21 . Kraken - Splinterwoord<br /></p>
+<p><a name="rzpl705"></a> <strong>Playlist der 705. RauschZeit vom 04.07.2024</strong><br />
 <br />coming soon<br /></p>

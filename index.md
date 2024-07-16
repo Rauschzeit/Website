@@ -13,8 +13,8 @@ title: RauschZeit
 <br /><br />
 <p style="text-align: left;">
     <strong>
-        # RauschZeit Nr.705<br />
-        # 04.07.2024 von 21h - 23h
+        # RauschZeit Nr.706<br />
+        # 18.07.2024 von 21h - 23h
     </strong>
 </p>
 

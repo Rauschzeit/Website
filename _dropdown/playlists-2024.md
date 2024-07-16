@@ -416,4 +416,26 @@ priority: 27
 20 . Bidol Cath - A3<br />
 21 . Kraken - Splinterwoord<br /></p>
 <p><a name="rzpl705"></a> <strong>Playlist der 705. RauschZeit vom 04.07.2024</strong><br />
+01 . Thierry Arnal - Brume<br />
+02 . NStant - Floating Like Particles In The Air<br />
+03 . digitalsakura - 01_eastre<br />
+04 . Anatoly Grinberg & Andreas Davids - Voices From The Future<br />
+05 . Kippu - Crystal Meth<br />
+06 . Riotmiloo - Define Normal<br />
+07 . Hainbach & Look Mum No Computer - Bordsteinkante<br />
+08 . Anthony Rother - Celebrate The Future<br />
+09 . Yuko Araki - White Petals<br />
+10 . Modern Depression - Feel The Heat<br />
+11 . 5F_X - This Ufo Is Made From Scrap<br />
+12 . S.K.E.T. - Breathe Dust And Sand<br />
+13 . Monya - Ausgang<br />
+14 . John Faust - Gozen Yoji (Signalstoerung Remix)<br />
+15 . Perc - Milk Snatchers Return<br />
+16 . Ethan Fawkes - Unending Antipathy<br />
+17 . Mortaja - Freefall<br />
+18 . Hysteresis - Acidtek<br />
+19 . The Rorschach Garden - Tell Me<br />
+20 . Unicorn Partisans - Out Of Burnout<br />
+21 . David Strother & Mark Hjorthoy - Theft From The Violated<br /></p>
+<p><a name="rzpl706"></a> <strong>Playlist der 706. RauschZeit vom 18.07.2024</strong><br />
 <br />coming soon<br /></p>

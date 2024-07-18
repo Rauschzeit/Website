@@ -438,4 +438,29 @@ priority: 27
 20 . Unicorn Partisans - Out Of Burnout<br />
 21 . David Strother & Mark Hjorthoy - Theft From The Violated<br /></p>
 <p><a name="rzpl706"></a> <strong>Playlist der 706. RauschZeit vom 18.07.2024</strong><br />
+01 . Blac Kolor - Weltenbrand<br />
+02 . Raul Alvarez - Scape From Reality (Original Mix)<br />
+03 . Szary - Copy<br />
+04 . Arcane Asylum & TENNIH - What You Leave Behind<br />
+05 . TweakerRay - Firewall<br />
+06 . Testube - Cellstem Rewrite (Edit feat . Y-Luk-O)<br />
+07 . Machine - Slowcore 34300<br />
+08 . Saturmzlide - Floor XXIII<br />
+09 . S.I.N.A - Gefühlschaos (Cervello Elettronico Remix)<br />
+10 . STATIQBLOOM - Fire Of The Heart<br />
+11 . Monya - In Trance (Cervello Elettronico vs Ratio Strain Remix)<br />
+12 . Eric de Vries - Du Du Du<br />
+13 . Tapefeed - Drone Button Pusher<br />
+14 . Schwefelgelb - Momentum<br />
+15 . Oliver Rosemann - The Dissapearing Act<br />
+16 . Roll Dann - The Mouth<br />
+17 . DJ Tomcraft - Prosac<br />
+18 . Metapattern - Triangulation<br />
+19 . Emanuel Eisbrenner - Also Doch<br />
+20 . Toktok - Homeless (Berk Offset Dub Wiedermisch)<br />
+21 . Frett - Judge<br />
+22 . Voxish - Further<br />
+23 . Holmur - Mountain Lodge<br />
+24 . Eeem [eim] - La Confusion des Temps<br /></p>
+<p><a name="rzpl707"></a> <strong>Playlist der 707. RauschZeit vom 01.08.2024</strong><br />
 <br />coming soon<br /></p>

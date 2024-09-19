@@ -13,8 +13,8 @@ title: RauschZeit
 <br /><br />
 <p style="text-align: left;">
     <strong>
-        # RauschZeit Nr.710<br />
-        # 12.09.2024 von 21h - 23h
+        # RauschZeit Nr.711<br />
+        # 26.09.2024 von 21h - 23h
     </strong>
 </p>
 

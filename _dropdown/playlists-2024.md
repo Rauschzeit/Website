@@ -561,5 +561,34 @@ priority: 27
 24 . Neuheimeraltz - あなたが思い描いた世界<br />
 </p>
 <p><a name="rzpl711"></a> <strong>Playlist der 711. RauschZeit vom 26.09.2024</strong><br />
-
+01 . Marie Wilhelmine Anders - Signal<br />
+02 . Remote Guest List - Paracosm<br />
+03 . FFF - Eternal Mind<br />
+04 . Tommy The Cat - Enter The Shogun<br />
+05 . enduser - Retaliation<br />
+06 . Bassgrow - Age of Freedom<br />
+07 . Limewax - Gary White<br />
+08 . S.Murk - Overbreaker<br />
+09 . Zkulptortrax & DJ Torturhythm - Reprogram<br />
+10 . Demonwolf - Friendship Is Overrated, Lets Make A Suicide Pact And Bury Ourselves In The Woods Instead<br />
+11 . Mike Redman & Ed Rush - Roffadamn Jungle (Ed Rush Remix)<br />
+12 . Sinister Souls & Counterstrike - Full Auto<br />
+13 . Deathmachine - Photon Pain VIP<br />
+14 . The Satan - Bass Feeling<br />
+15 . Blockdata - Hybrid<br />
+16 . Switch Technique - Nekrogasm<br />
+17 . Counterstrike - On Fire<br />
+18 . DJ Hidden - Remember<br />
+19 . Sinister Souls - Gluhwein<br />
+20 . Hallucinator - Distortion of Reality<br />
+21 . Krytika - Maschine<br />
+22 . Lowroller - Dying Breeds<br />
+23 . Sickpistol - Wormfeed<br />
+24 . Katharsys & Cooh - Dark Red<br />
+25 . n3wjack - Fist Fight<br />
+26 . Apzolut - Ayoo<br />
+27 . Coco Bryce - My Space<br />
+28 . Huron - Metallic Bug Invasion<br />
+</p>
+<p><a name="rzpl712"></a> <strong>Playlist der 712. RauschZeit vom 10.10.2024</strong><br />
 <br />coming soon<br /></p>

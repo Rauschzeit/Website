@@ -616,4 +616,118 @@ priority: 27
 23 . Thierry Arnal - Unity 05<br />
 </p>
 <p><a name="rzpl713"></a> <strong>Playlist der 713. RauschZeit vom 24.10.2024</strong><br />
-coming soon<br /></p>
+01 . Zebbler Encanti Experience - Ripple Continuum<br />
+02 . 16 Pad Noise Terrorist - Motherpad<br />
+03 . New Rose Hotel - Room 1306<br />
+04 . Millipede - Recesses<br />
+05 . Vndl - Novar<br />
+06 . Hecq - Coup De Lune<br />
+07 . Tonikom - Peripheral Movement<br />
+08 . RXmode - Degraded (Slaves of Sinus remix)<br />
+09 . Somatic Responses - Kammerl Acid Test<br />
+10 . MONYA - Excursion with Sergej<br />
+11 . Mimetic - Schizoid<br />
+12 . Cement Tea - That Weird Song<br />
+13 . Terminal11 - Raging Warpath Dinner Piano<br />
+14 . Proyecto Mirage - Welcome To Life<br />
+15 . Xanopticon - Into the Dark<br />
+16 . Subskan - I Don't Care<br />
+17 . Aevin - L3 (Ecstasphere remix)<br />
+18 . Keef Baker - Skellington<br />
+19 . Altered:Carbon - Tw30 (Floating Spirits Remix)<br />
+20 . Soulkeeper - Techno 10<br />
+21 . RXDX - Interplanetary Dust<br />
+22 . TechDiff - SP04.3<br />
+23 . Empath - Meanwhile<br />
+24 . AtOm_AnT - FlYiNg_ThOuGhTs_RoOm<br />
+</p>
+<p><a name="rzpl714"></a> <strong>Playlist der 714. RauschZeit vom 07.11.2024</strong><br />
+01 . Nocto vs Sonic Area - Game Of Life Glider<br />
+02 . Nelly Quist - Oscillon<br />
+03 . Autoclav1.1 - Diamondbackviper<br />
+04 . After White Smoke - AWSV4X1<br />
+05 . the_empath - Hypernova<br />
+06 . neat_less - Do You Really Want To Suffer<br />
+07 . Mikrometrik - No More Life's Refrain<br />
+08 . 5F_X - Hitchhiker's Groove To Galaxy<br />
+09 . MS Gentur & Sven Phalanx - Noise Control<br />
+10 . Eric De Vries - Du Du Du<br />
+11 . Eric De Vries - Head And Saw<br />
+12 . Winterkälte - Protect Ecosystems (Act Now)<br />
+13 . Winterkälte - Structure 10<br />
+14 . Monya - Rapture<br />
+15 . S.K.E.T . - Educate Agitate Insubordinate<br />
+16 . Crystal Geometry - Hypnotic Pain<br />
+17 . System Lock - Imperium<br />
+18 . Hecate - I Married The Berlin Wall<br />
+19 . Dame Area - Tú me hiciste creer<br />
+20 . Synapscape - Catwalk Massacre<br />
+21 . Riotmiloo - Your Eyes<br />
+22 . Im Namen des Volkes - Die Welt ist kaputt<br />
+23 . INYAN - North<br />
+24 . Vacant Possession & Basic Tape Loops - Bis Morgen<br />
+25 . Miss Canine Hoe - Avaritia<br />
+26 . Hannya White - Long Legged Cats<br />
+</p>
+<p><a name="rzpl715"></a> <strong>Playlist der 715. RauschZeit vom 21.11.2024</strong><br />
+01 . Phagz - Brown<br />
+02 . Re:Axis - Prana<br />
+03 . Black Lung - The Hegelian Dialectic<br />
+04 . Somatic Responses - A01TR4<br />
+05 . 5F-X - Anthem of the Octopus Planet<br />
+06 . Sonar - Before Or After (Mimetic Remix)<br />
+07 . STATIQBLOOM - The Earth Drank Blood<br />
+08 . Last Days Of S.E.X . - Distress<br />
+09 . Yura Yura - Brume<br />
+10 . Blush Response - GENE STEALER<br />
+11 . Le Moderniste - They Said To Do It<br />
+12 . S.K.E.T . - Empires Fall!<br />
+13 . Trackologists - Self-Replication (16Pad Noise Terrorist Remix)<br />
+14 . Tl3ss - Systole<br />
+15 . Rob(U)Rang - Il(A)Tayate<br />
+16 . Mouse On Mars - Ignition Segments<br />
+17 . Autoclav1.1 - Hidden Paths To Beaumont Park<br />
+18 . Aura Kamikura - INYAN's Ten (Aura Kamiku Ramix)<br />
+19 . Flint Glass & Ah Cama-Sotz - Kaxinawá<br />
+20 . Szary - Bell<br />
+21 . Cabaret Contemporain - Arc<br />
+22 . Vacant Possession & BASIC TAPE LOOPS - Small Things Long Forgotten<br />
+23 . Niacinamide & Absurd Reality - Dredging The Depths of Empathy<br />
+24 . Betty Apple - Bodies Unhinge<br />
+25 . PC Nackt - Kristall<br />
+</p>
+<p><a name="rzpl716"></a> <strong>Playlist der 716. RauschZeit vom 05.12.2024</strong><br />
+01 . Daniel Myer - Wiedergabe<br />
+02 . Naomi Sample & The Go Go Ghosts - Salmiak<br />
+03 . Naomi Sample & The Go Go Ghosts - Schlechte Erinnerungen an Musik<br />
+04 . Naomi Sample & The Go Go Ghosts - Die Uhr (Robodop Snej<br />
+05 . KiEw - Precinct 17 (+4 Remix by Naomi Sample)<br />
+06 . Kid Knorke & Betty Bluescreen - Atari Party<br />
+07 . Naomi Sample & The Go Go Ghosts - Hausverbot bei Facebook (Live)<br />
+08 . Naomi Sample & The Go Go Ghosts - Information (Pocketmaster Remix)<br />
+09 . Hugging Hate - Im Sportverein<br />
+10 . Kem Trail - Der Sachbearbeiter (feat. Kris Kandinsky)<br />
+11 . Naomi Sample & The Go Go Ghosts - Verchromte Menschen<br />
+12 . gWem - The Rhymer<br />
+13 . Naomi Sample & The Go Go Ghosts - Wer löscht den Kabelbrand<br />
+</p>
+<p><a name="rzpl717"></a> <strong>Playlist der 717. RauschZeit vom 19.12.2024</strong><br />
+01 . Fusion of Elements aka Syndromeda & Sensory++ - Cyclotron<br />
+02 . Fisternni - Alma 001<br />
+03 . b°tong / Claus Poulsen - Dovrefjell<br />
+04 . .cut - Ghosting<br />
+05 . The_Empath - Solaris I (With Airbag Killex)<br />
+06 . Atrox - Kälteschlaf<br />
+07 . Mareena & JakoJako - Mut zur Wahrheit<br />
+08 . Fornax Void - Void Gate Panorama Station<br />
+09 . Earlyguard - Terminus (Grenzwellen Version)<br />
+10 . Szary - Rats<br />
+11 . Moritz von Oswald - Luminoso<br />
+12 . Cryptologic Sludge - 5<br />
+13 . Thébru Čelet & INYAN & AMHKS - Hybris<br />
+14 . DJ AI - Cosmic Resonance Journey Across the Celestial Expanse<br />
+15 . DJ AI - Transcendent Dreams Amidst Tau Ceti's Embrace<br />
+16 . Hainbach - Bubble Tea<br />
+17 . Autoclav1.1 - White Into Amber<br />
+18 . Lustmord - Subspace<br />
+</p>

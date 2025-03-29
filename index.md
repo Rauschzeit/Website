@@ -13,8 +13,8 @@ title: RauschZeit
 <br /><br />
 <p style="text-align: left;">
     <strong>
-        # RauschZeit Nr.723<br />
-        # 13.02.2025 von 21h - 23h
+        # RauschZeit Nr.725<br />
+        # 10.04.2025 von 21h - 23h
     </strong>
 </p>
 

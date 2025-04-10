@@ -187,5 +187,30 @@ priority: 28
 30 . Global Chill - Hunter In The Dark Of The Forest<br />
 </p>
 <p><a name="rzpl725"></a> <strong>Playlist der 725. RauschZeit vom 10.04.2025</strong><br />
+01 . Rotersand - Just Sales<br />
+02 . Trepaneringsritualen - Two Crescent Moons Embrace The Sun<br />
+03 . Heimstatt Yipotash - Fixed Focus – Hanging By...<br />
+04 . AkMD - You All Destroy (Edit Version RMX By Jihad)<br />
+05 . Kryotronic - Mortified Things (Studio)<br />
+06 . Cardinal Noire - Killshelter<br />
+07 . K.I.F.O.T.H. - Victim (Brain Leisure Cinematic Edit)<br />
+08 . Stasis Device - Ai<br />
+09 . Solemn Assembly - Ghosted<br />
+10 . Architect - For You (Live Version 2015)<br />
+11 . ADkeY - Alles Bewegt Sich<br />
+12 . Hugging Hate - Die Lehrer:in<br />
+13 . KIWA - G's n Things<br />
+14 . Download - LingAM<br />
+15 . Morbid Fancy - RestArt<br />
+16 . Slighter X Cyanotic - Turmoil (Rebuilt)<br />
+17 . Cyberaktif - You Don't Need To See<br />
+18 . Leathers - Highrise<br />
+19 . Black Asteroid - Ashes And Dust (Extended Version feat . ACTORS)<br />
+20 . Der Cherep - Now We Awaken<br />
+21 . Alarmen - Tarazed (Pulsar Mix By Mortaja)<br />
+22 . Triode meets Headdreamer - Untold Words (Long Edit)<br />
+23 . Lucus - Vectorising<br />
+</p>
+<p><a name="rzpl726"></a> <strong>Playlist der 726. RauschZeit vom 24.04.2025</strong><br />
 coming soon.
 </p>

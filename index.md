@@ -9,7 +9,8 @@ title: RauschZeit
 \# alle zwei Wochen donnerstags von 21 - 23h  
 \# electronic'n'noise  
 <br /><br />
-\# seit Mai 1997 von-und-mit [AtheB](/dropdown/djs_atheb.html) &amp; [Thedi](/dropdown/djs_thedi.html)
+\# seit Mai 1997
+\# von-und-mit [AtheB](/dropdown/djs_atheb.html) &amp; [Thedi](/dropdown/djs_thedi.html)
 <br /><br />
 <p style="text-align: left;">
     <strong>

@@ -63,9 +63,8 @@ Fon: 0581/9054-0<br />
 Fax: 0581/9054-260<br />
 eMail: <a href="mailto:ue@zusa.de" target="_blank" rel="noopener">ue@zusa.de</a></p>
 <p><strong>Studio Lüneburg</strong><br />
-Scharnhorststraße 1<br />
-21335 Lüneburg<br />
-Fon: 04131/7813-26<br />
-Fax: 04131/7813-20<br />
+Volgershall 1br />
+21339 Lüneburgg<br />
+Fon: 04131/992 67 67<br />
 eMail: <a href="mailto:lg@zusa.de" target="_blank" rel="noopener">lg@zusa.de</a></p>
 <p>Alles Weitere direkt beim Sender unter <a title="Radio ZuSa" href="http://www.zusa.de" target="_blank" rel="noopener">www.zusa.de</a> .</p>

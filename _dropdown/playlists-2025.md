@@ -212,5 +212,34 @@ priority: 28
 23 . Lucus - Vectorising<br />
 </p>
 <p><a name="rzpl726"></a> <strong>Playlist der 726. RauschZeit vom 24.04.2025</strong><br />
+01 . Synth-Etik - Architect Of Fear<br />
+02 . Asmrseries - Gerolltematratzeauspacken<br />
+03 . Beko Wdw85141Steam1 - Neue Wama Erstlauf 09.02.24<br />
+04 . Michael Idehall - Graven Image<br />
+05 . Axophobe - Monotonie De L’Âge Adulte (D23)<br />
+06 . Dr . Aquaman - Noise<br />
+07 . Hezzel - What Went Wrong<br />
+08 . Godmaggot - Abyss<br />
+09 . Somatic Responses - Cyc Bm<br />
+10 . Heimstatt Yipotash - Cargo 200 (Kotra Remix)<br />
+11 . Antyscena - Fly<br />
+12 . Kult303 - Desolate<br />
+13 . Focck Rabble - Fr0Ther Milk<br />
+14 . Dazzling Malicious - Strzyga<br />
+15 . Leeed - Asteroids<br />
+16 . Blush Response - Hawking Point<br />
+17 . Offset Zik - Contagious<br />
+18 . Zombieflesheater - Pushst Du Mich, Push Ich Dich<br />
+19 . Cumsleg Borenail - Romanus<br />
+20 . Lyly - The Forgotten<br />
+21 . Marie Wilhelmine Anders - Evensong<br />
+22 . Deflect VS . Ish - Diffused (Live At Ap Night Vol.4)<br />
+23 . Midi Bitch - The Blessing Of Not Knowing<br />
+24 . Michaangi - Erde1<br />
+25 . Sunken Fence - Caff Ii<br />
+26 . D-Fried - Love Ho [Nefon Tapes Transformation Two]<br />
+27 . Fail & Hendekagon - Line 1<br />
+</p>
+<p><a name="rzpl726"></a> <strong>Playlist der 727. RauschZeit vom 08.05.2025</strong><br />
 coming soon.
 </p>

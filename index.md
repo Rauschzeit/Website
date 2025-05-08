@@ -14,8 +14,8 @@ title: RauschZeit
 <br /><br />
 <p style="text-align: left;">
     <strong>
-        # RauschZeit Nr.727<br />
-        # 08.05.2025 von 21h - 23h
+        # RauschZeit Nr.728<br />
+        # 22.05.2025 von 21h - 23h
     </strong>
 </p>
 

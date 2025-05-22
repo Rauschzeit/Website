@@ -265,5 +265,9 @@ priority: 28
 22 . Holmur - Thicker Than Water<br />
 </p>
 <p><a name="rzpl728"></a> <strong>Playlist der 728. RauschZeit vom 22.05.2025</strong><br />
+data pending.
+</p>
+
+<p><a name="rzpl729"></a> <strong>Playlist der 729. RauschZeit vom 05.06.2025</strong><br />
 coming soon.
 </p>

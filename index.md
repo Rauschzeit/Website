@@ -14,8 +14,8 @@ title: RauschZeit
 <br /><br />
 <p style="text-align: left;">
     <strong>
-        # RauschZeit Nr.731<br />
-        # 03.07.2025 von 21h - 23h
+        # RauschZeit Nr.736<br />
+        # 11.09.2025 von 21h - 23h
     </strong>
 </p>
 

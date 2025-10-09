@@ -18,6 +18,9 @@ priority: 2
 <p>Das Einfügen des obigen Links in das Abspielprogramm funktioniert üblicherweise über Menüpunkte wie 'URL öffnen' oder 'Radiostation hinzufügen'.
 Manche Internetradiogeräte benötigen eine PLS-Datei, die sämtliche verfügbaren Stream-Formate enthält. Der Link zu dieser Datei lautet <a href="http://funkturm.zusa.de:8000/zusa.pls" target="_blank">http://funkturm.zusa.de:8000/zusa.pls</a>.</p>
 
+<p>Achtung APPLE USer: Es gibt ab und an Probleme mit dem Stream, hier der direkte Link:<br>
+Stream-Formate enthält. Der Link zu dieser Datei lautet <a href="https://funkturm.radio-zusa.net:8443/mp3" target="_blank">https://funkturm.radio-zusa.net:8443/mp3</a>.</p>
+
 <p><strong>Frequenzen:</strong></p>
 <p><strong>Antenne: </strong></p>
 <table border="0">

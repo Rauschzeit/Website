@@ -368,24 +368,24 @@ data pending.
 05. Viels - Effetto Bilaterale<br />
 06. Oxygeno - Dissolving Into The Ground<br />
 07. UFO95 - Against Everything<br />
-08. Endlec - Tactical Steps<br /><br /><br />
-09. Alexey Dunchyk - Don't Look Back [digi only]<br /><br />
+08. Endlec - Tactical Steps<br />
+09. Alexey Dunchyk - Don't Look Back [digi only]<br />
 10. Casual Treatment - The Player's Handbook<br />
 11. Ruman - Probation<br />
-12. Lakej - Fabrications<br /><br /><br />
-13. Lidvall - Think twice [digi only]<br /><br />
+12. Lakej - Fabrications<br />
+13. Lidvall - Think twice [digi only]<br />
 14. Michel Lauriola - Basic solution<br />
-15. Vertical Spectrum - ..r... ...to.<br /><br /><br />
-16. Mist Gasp - The Await<br /><br />
+15. Vertical Spectrum - ..r... ...to.<br />
+16. Mist Gasp - The Await<br />
 17. Capon - Last Hope<br />
-18. PWCCA - Slow Conversation<br /><br /><br />
-19. Metapattern - Swarm<br /><br />
+18. PWCCA - Slow Conversation<br />
+19. Metapattern - Swarm<br />
 20. MasCon - Existenz<br />
 21. BLADE - Agony<br />
 22. Ignøranz - #007<br />
 23. Edgar De Ramon - Contemporary Practices (Matrixxman Reloaded Mix)<br />
-24. The Advent - Clap Trap<br /><br /><br />
-25. Emanuel Eisbrenner - Texotron<br /><br />
+24. The Advent - Clap Trap<br />
+25. Emanuel Eisbrenner - Texotron<br />
 26. Hybrid & Komorebi - Bad Omen<br />
 </p>
 
@@ -430,5 +430,63 @@ data pending.
 </p>
 
 <p><a name="rzpl736"></a> <strong>Playlist der 736. RauschZeit vom 11.09.2025</strong><br />
+data pending.
+</p>
+
+<p><a name="rzpl737"></a> <strong>Playlist der 737. RauschZeit vom 25.09.2025</strong><br />
+01. Mesh Convergence - Reflection Of You<br />
+02. Wahn - A Long Journey Part 1<br />
+03. Incendie - Through Boundaries<br />
+04. 5F-X - Boombox from Tattoine<br />
+05. Siamgda ꕾ Marie - Celeb.Oratory<br />
+06. Statiqbloom + Blush Response - Wipe Away Neither Sorrow<br />
+07. Alessandro Nero - Hegelian Dialectic<br />
+08. Espectra Negra - Entfremdung und Ästhetischer Genuss feat. Ringo Lukas<br />
+09. Sonar - Tone-Loc (Manufactura Remix)<br />
+10. Mike Nylons - They Are Legion<br />
+11. Anarchotech - Weaponized Smart Appliances<br />
+12. Hatelove - La Pagaille<br />
+13. AGA2L - Valhallah<br />
+14. Orphx - Pox Americana 2025<br />
+15. Eric de Vries - I Kill My Endboss<br />
+16. Vlaysin - Puck The Folice<br />
+17. Proyecto Mirage - Dust and Fire (Rough Mix)<br />
+18. The Operative - Cube Tap<br />
+19. Fabrikmutter - Rendimiento Insuficinete<br />
+20. Maschinenkrieger KR52 - Kumitee<br />
+21. Mono No Aware - Optimized Minds<br />
+22. Dirty K. - You Are Not What You Pretend To Be<br />
+23. AnD - Warming Up<br />
+24. LEEED - Deep Vibration<br />
+</p>
+
+<p><a name="rzpl738"></a> <strong>Playlist der 738. RauschZeit vom 09.10.2025</strong><br />
+01. Cienfuegos - Divine Sister<br />
+02. Owen Moran - Until The Blood In Your Veins Runs As Black As The Coal<br />
+03. Konstantinos Gkoumas - P.O.G.<br />
+04. ADMX-71 - Mystical Ascent<br />
+05. Cluster Lizard - Hymn<br />
+06. Define.Human - Frequency 0319 pt.2 (Manufactura Remix)<br />
+07. Huno - Object<br />
+08. Sylvgheist Maëlström - Instabilité Fragilité<br />
+09. Sleepmask - Hidden Leaves Fall<br />
+10. Semoha Homes - Darkshore Darksky Zero One<br />
+11. Pscal Hetzel - RBBRMN (JakoJako Remix)<br />
+12. BOVE - Trace<br />
+13. 610 Frequency - Ready For More (Breaks Version)<br />
+14. Aeroforme - T8ks & Bt8ks<br />
+15. Sominaryst - Next<br />
+16. Kneipe - Riot<br />
+17. Hybrasil  - Altered Visions<br />
+18. Bastion - Temple Run<br />
+19. Caustic - Ashes are Goth Snowflakes<br />
+20. Eyeless Sight - Ghost Of The Land<br />
+21. Kero X Tetzzie - Square Rebar<br />
+22. Chino - Wschód<br />
+23. Zy_Gote & Manufactura - Contemplate<br />
+24. Jackname Trouble - Juicek<br />
+</p>
+
+<p><a name="rzpl739"></a> <strong>Playlist der 739. RauschZeit vom 23.10.2025</strong><br />
 coming soon.
 </p>

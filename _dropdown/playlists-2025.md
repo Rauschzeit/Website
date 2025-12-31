@@ -488,5 +488,128 @@ data pending.
 </p>
 
 <p><a name="rzpl739"></a> <strong>Playlist der 739. RauschZeit vom 23.10.2025</strong><br />
+01 . Trauma - The Last Rose<br />
+02 . Wahn - A Long Journey Part 2<br />
+03 . Deflect Vs Ish - Diffused (Live at AP Night vol.4)<br />
+04 . Thlaaflaa - Ut Häm Köl<br />
+05 . AXKAN - No God (Dub 2.0 RM)<br />
+06 . JT Whitfield - Bleak Speak<br />
+07 . Mousetrapping - HEARTLESS TROLL<br />
+08 . CBN - Who Has Time For Tears<br />
+09 . Zovi - The Slime Pit<br />
+10 . Daydriver - Net<br />
+11 . ESA - Rats Come Together (Thrashing Fraud Mix)<br />
+12 . ELRØY - 666 (Original Mix)[IN32FD]<br />
+13 . 13th Monkey - Circadian Rhythm<br />
+14 . Vexillary - The Smoke (Statiqbloom ReDub)<br />
+15 . HATELOVE - La Pagaille<br />
+16 . ICD-10 - Rigor Mortis<br />
+17 . Statiqbloom + Blush Response - Apotheke<br />
+18 . Messiahwaits - Escape From Hell<br />
+19 . Cervello Elettronico - Occams Razor<br />
+20 . C4AT - No Principles, Destroy It<br />
+21 . Orphx - Bare Life (Reduced Version)<br />
+22 . Anima Mundi - Summer Rrain<br />
+23 . 16Pad Noise Terrorist - Mangogirl VIP<br />
+24 . Seoko Leono - Feather 1 (White & Brown)<br />
+25 . Seoko Leono - Feather 2 (True Black)<br />
+26 . Plaster - Unicore (Part 1-2)<br />
+27 . Plaster - Unicore (Part 3)<br />
+</p>
+
+<p><a name="rzpl740"></a> <strong>Playlist der 740. RauschZeit vom 06.11.2025</strong><br />
+01 . This Morn' Omina - (A) Song Of Eloi'im<br />
+02 . Xotox - Weltuntergang (Nyppy Remix)<br />
+03 . H.O.M - La Mer Est Agitee<br />
+04 . Plaster - Lucubra <br />
+05 . Mlada Fronta - Year 6<br />
+06 . Dither - D10526<br />
+07 . 3,14 - Inverted Zero<br />
+08 . VSK - Status Quo<br />
+09 . Distel - Tempels<br />
+10 . Alekzandra - Reverse<br />
+11 . SA-20 - MATADOR<br />
+12 . OTHR - All Crumble<br />
+13 . NGLY - Lure<br />
+14 . Harakiri Brothers - Awake (Dominik Musiolik remix)<br />
+15 . Subotage - Profound Analgesia 5D+<br />
+16 . Crystal Geometry - The Old Books<br />
+17 . Black Dog Bastard - Cavalier De L'apocalypse<br />
+18 . SHXCXCHCXSH - QQQA<br />
+19 . Makaton - Revolution Kiss<br />
+20 . SurgeryHead - The Wizard's Workshop Above is An Impossible Labyrinth,  His Voice Echoes Down The Halls, The Book Of Foul Rot Must Not Be Allowed Fall Into The Wrong Hands .  Avoid The Wizard's Puppets or be Turned To Stone . Hidden Here Is The Secret Of Petrification Mag<br />
+21 . Sunken Fence - Mersic II<br />
+</p>
+
+<p><a name="rzpl741"></a> <strong>Playlist der 741. RauschZeit vom 20.11.2025</strong><br />
+01 . GitM - This Is What We Get<br />
+02 . Synth Freunde Hansahlen - Hundepolizist<br />
+03 . ZackiBoy - Ich geh Online (Andreas Dorau & Zwanie Jonson Remix)<br />
+04 . ZackiBoy - Saufen ist schön<br />
+05 . ZackiBoy - (Was Du sagst) ist schön (ZuSa Live Improvisation)<br />
+06 . Im Namen des Volkes - Alles Verfall<br />
+07 . Björk - Declare Independence<br />
+08 . Einstürzende Neubauten - Bildbeschreibung<br />
+09 . ZackiBoy - Venlafaxin<br />
+10 . Uijuijui - Harmonie am Elbstrand (Remix by KiEw)<br />
+11 . Kid Knorke & Betty Bluescreen - Ausgebrannt<br />
+12 . Xotox - I Am NOMAD (Clubversion)<br />
+13 . David Wallraf - One And One<br />
+14 . Tricky - Council Estate<br />
+15 . Jimmy Ungarn vs . Uijuijui - Für immer Feinde<br />
+16 . Naomi Sample & The Go Go Ghosts - Get Up Work Sleep Reset<br />
+17 . ZackiBoy - Ich weiss, wo Mike Witschi wohnt<br />
+18 . INYAN - Botanical A<br />
+</p>
+
+<p><a name="rzpl742"></a> <strong>Playlist der 742. RauschZeit vom 04.12.2025</strong><br />
+01 . Signalstoerung - Chordae Vocales VI (feat . Kate Bosworth)<br />
+02 . Six Fingered People & rsn - Reflex Spores<br />
+03 . Fail & Disorganism - The White Well Summons<br />
+04 . Alarmen - Tarazed (γ Aquilae Mix By Heimstatt Yipotash)<br />
+05 . Spherical Disrupted - Altair (Oko And Machines Remix)<br />
+06 . the_empath - Ergosphere (With Mortaja)<br />
+07 . Angela Mierzwa & Apparatus - Transitions<br />
+08 . John Faust - Gozen Yoji (John Faust 2024 Rework)<br />
+09 . Acid Moustache - Hungry Moustache<br />
+10 . Daniel Myer - Atomic Winter<br />
+11 . Silent Servant - M-00<br />
+12 . Synapscape - Last Night<br />
+13 . Maschinenkrieger KR52 - Animal Warefare<br />
+14 . 13th Monkey - Circadian Rythm<br />
+15 . Riotmiloo - Folie à Deux<br />
+16 . Dame Area - Si no es hoy cuando es<br />
+17 . Bound By Endogamy - Going To The Mine<br />
+18 . Grodock und der Verlorene Faden - The Straw<br />
+19 . Krummhörens Kuhlen & Kate Bosworth - Pferdehütte 25<br />
+20 . BVTH - You Cannot Buy The Revolution<br />
+21 . Séraphitüs-Séraphîta + Eva Kadmon - Subproject 119<br />
+22 . Einstürzende Neubauten - Zentrifuge<br />
+23 . Signalstoerung - Chordae Vocales IV (feat . Asja Skrinik)<br />
+</p>
+
+<p><a name="rzpl743"></a> <strong>Playlist der 743. RauschZeit vom 18.12.2025</strong><br />
+01 . Substak - Ambient Field<br />
+02 . Delerium - Inside The Chamber<br />
+03 . Beyond Sensory Experience - Escapism<br />
+04 . Fabio Keiner - ken - the mountain<br />
+05 . Lucus - Vecteurisation<br />
+06 . Rengaine Morbide vs . dAiwalker - Rengaine Morbide - Black Leather Glove<br />
+07 . b°tong - Graveyard Prayer<br />
+08 . Alessandro Barbanera - Past Lives (Mesmerism)<br />
+09 . Schwarzer Tag - Kyrie I<br />
+10 . Schwarzer Tag - Kyrie II<br />
+11 . Schwarzer Tag - Kyrie III<br />
+12 . The Allegorist - Tekhenu (Desiderii Marginis Rework)<br />
+13 . Mono Hideout - Inner Spring<br />
+14 . Afterlife - Sirens Of Titan<br />
+15 . Lustmord - Deep Calls To Deep<br />
+</p>
+
+<p><a name="rzpl744"></a> <strong>Playlist der 744. RauschZeit vom 01.01.2026</strong><br />
+coming soon.
+</p>
+
+<p><a name="rzpl745"></a> <strong>Playlist der 745. RauschZeit vom 15.01.2026</strong><br />
 coming soon.
 </p>

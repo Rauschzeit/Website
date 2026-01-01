@@ -14,8 +14,8 @@ title: RauschZeit
 <br /><br />
 <p style="text-align: left;">
     <strong>
-        # RauschZeit Nr.744<br />
-        # 01.01.2026 von 21h - 23h
+        # RauschZeit Nr.745<br />
+        # 15.01.2026 von 21h - 23h
     </strong>
 </p>
 

@@ -19,7 +19,7 @@ priority: 2
 Manche Internetradiogeräte benötigen eine PLS-Datei, die sämtliche verfügbaren Stream-Formate enthält. Der Link zu dieser Datei lautet <a href="http://funkturm.zusa.de:8000/zusa.pls" target="_blank">http://funkturm.zusa.de:8000/zusa.pls</a>.</p>
 
 <p>Achtung APPLE USer: Es gibt ab und an Probleme mit dem Stream, hier der direkte Link:<br>
-Stream-Formate enthält. Der Link zu dieser Datei lautet <a href="https://funkturm.radio-zusa.net:8443/mp3" target="_blank">https://funkturm.radio-zusa.net:8443/mp3</a>.</p>
+<a href="https://funkturm.radio-zusa.net:8443/mp3" target="_blank">https://funkturm.radio-zusa.net:8443/mp3</a>.</p>
 
 <p><strong>Frequenzen:</strong></p>
 <p><strong>Antenne: </strong></p>
@@ -70,4 +70,4 @@ Volgershall 1br />
 21339 Lüneburgg<br />
 Fon: 04131/992 67 67<br />
 eMail: <a href="mailto:lg@zusa.de" target="_blank" rel="noopener">lg@zusa.de</a></p>
-<p>Alles Weitere direkt beim Sender unter <a title="Radio ZuSa" href="http://www.zusa.de" target="_blank" rel="noopener">www.zusa.de</a> .</p>
+<p>Alle weiteren Infos direkt beim Sender unter <a title="Radio ZuSa" href="http://www.zusa.de" target="_blank" rel="noopener">www.zusa.de</a> .</p>

@@ -10,15 +10,13 @@ Andreas Bluhm aka AtheB
 
 Gründungsmitglied und von Anfang an dabei - spielt gern den Krach und Technoides.
 
-Mehr oder weniger pünktlich gibt es hier die monatlichen TopTenTracks:  
+Projekte:
 [atheb.de](http://atheb.de)
-
-Mixsets:  
-[mixcloud.com/atheb](https://www.mixcloud.com/atheb/)
-
-Projekte:  
 [Angerkoff - Hardcore with a smile](http://angerkoff.com/)  
 [Kellerboxer - Audio](https://soundcloud.com/kellerboxer/)
 
-Techno:  
+Mixsets auf Mixcloud:  
+[mixcloud.com/atheb](https://www.mixcloud.com/atheb/)
+*
 [mixcloud.com/zielfunktion](https://www.mixcloud.com/zielfunktion/)
+[mixcloud.com/angerkoff](https://www.mixcloud.com/angerkoff/)

@@ -45,7 +45,7 @@ priority: 29
 09. Aether Chroma - Shores (Extended)<br />
 10. Incendie - Drowning<br />
 11. Klangstabil - Vertraut [Renegade Of Noise Remix By Daniel Myer]<br />
-12. Crunch Pod™ - RIOTLEGION - Phoenix Feather<br />
+12. RIOTLEGION - Phoenix Feather<br />
 13. Nadragea Vs Human Vault - This hate is sorrow<br />
 14. Bill T Miller - Cohesive Path<br />
 15. Sunken Fence - Caff I<br />

@@ -58,5 +58,32 @@ priority: 29
 </p>
 
 <p><a name="rzpl746"></a> <strong>Playlist der 746. RauschZeit vom 29.01.2026</strong><br />
+01 . Siamgda ꕾ Marie - In Vitro<br />
+02 . Jvox - Beautiful People<br />
+03 . Ldx#40 - Sq'D (Original Mix)<br />
+04 . Plaster - Unicore (Unified)<br />
+05 . Antyscena - Fly<br />
+06 . And - Wavy G<br />
+07 . Artik - Bring Them Down<br />
+08 . Ssss - Fault & Failure<br />
+09 . Mdd - Crushed<br />
+10 . Yura Yura - Terrorah<br />
+11 . Ontal - Menticide
+12 . Hypnoskull - A Force Of Reason<br />
+13 . Espectra Negra - Iron Wall<br />
+14 . Body Stress X Jonathan Bergen - Digital Superspreader<br />
+15 . Panzer - Drowning Machine (Feat Hbt)<br />
+16 . Fabrikmutter - Doom<br />
+17 . Distortion Six - Lost Vision<br />
+18 . Deftly Demolition - Beat Down<br />
+19 . Solypsis & Deftly Demolition - Cut And Saw<br />
+20 . Mousetrapping - Google Speedrun<br />
+21 . Defce - Pain Centers<br />
+22 . Atsushi Izumi - Casaurius<br />
+23 . Bonechurch - Greywork Vi<br />
+24. Porosty - Kaori Muzak<br />
+</p>
+
+<p><a name="rzpl747"></a> <strong>Playlist der 747. RauschZeit vom 12.02.2026</strong><br />
 coming soon.
 </p>

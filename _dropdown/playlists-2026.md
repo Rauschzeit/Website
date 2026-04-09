@@ -137,5 +137,63 @@ priority: 29
 </p>
 
 <p><a name="rzpl749"></a> <strong>Playlist der 749. RauschZeit vom 12.03.2026</strong><br />
+tbd.
+</p>
+
+<p><a name="rzpl750"></a> <strong>Playlist der 750. RauschZeit vom 26.03.2026</strong><br />
+01 . Autist - Crossing Dimensions<br />
+02 . Age Of Hate - The Value Of Defeat<br />
+03 . Harakiri Brothers - Awake (Dominik Musiolik Remix)<br />
+04 . Trust True - Barbarian<br />
+05 . Statiqbloom + Blush Response - Apotheke<br />
+06 . Metapattern - Strata<br />
+07 . Endlec - No Mercy<br />
+08 . Somniac One - Smoke Eater<br />
+09 . Cassie Raptor - Anger Volcano<br />
+10 . Bombardier - Circuit Breaker<br />
+11 . AK-Industry & The Relic - Your God<br />
+12 . RABBeAT - The Punch<br />
+13 . Magnitudo 8 - Compulsive Noise (Special version 2018)<br />
+14 . SOVA - Light to Ash<br />
+15 . SOVA - Untitled Club Banger 1<br />
+16 . STRISC . - Discharge<br />
+17 . PYROCLASTIC - Blood From Russian Oil To Ukraine Soil (Dyslexic Edit)<br />
+18 . Hypnoskull - Was Hier Vorgeht (33mhz Edit)<br />
+19 . Sei2ure - Peer Pressure<br />
+20 . Ignoen System & The Clamps - Demons (Detest Remix)<br />
+21 . The Satan - Beast<br />
+22 . I:Gor - Game Tight<br />
+23 . Nagazaki - 46K<br />
+24 . Krytika - Trivial Existence<br />
+25 . Dolphin & The Teknoist - Ppl Gon Bleed<br />
+26 . Mykoz and Daedra - Time<br />
+</p>
+<p><a name="rzpl751"></a> <strong>Playlist der 751. RauschZeit vom 09.04.2026</strong><br />
+01 . Ah Cama-Sotz - Zmeü-Kh (Part II)<br />
+02 . After White Smoke - The Black Vein<br />
+03 . Nigh/T\Mare - Through<br />
+04 . H.O.M - La Mer Est Agitee<br />
+05 . Panzer - Drowning Machine (Feat HBT)<br />
+06 . Plaster - Terminal<br />
+07 . Xplitiv - Manhattan Research<br />
+08 . Converter - Descent Into Hell<br />
+09 . Autist - Chaotic Harmony<br />
+10 . Ontal - Menticide<br />
+11 . Statiqbloom - Second Sight<br />
+12 . Simon Grab - The Earth Turning In The Red<br />
+13 . SSSS - Fault & Failure<br />
+14 . MDD - Transition Pull<br />
+15 . Noiz+Zilenth - Nebun D' Zmogoth<br />
+16 . Ruido Del Cielo - Industriegaslagerstatten<br />
+17 . [Fabrikmutter] - War [A Ignorance Reaction]<br />
+18 . She Doesn'T 3Xist - Cables<br />
+19 . Wieloryb Vs . G.A.S . - My Way<br />
+20 . Magnitudo 8 - Compulsive Noise (Special Version 2018)<br />
+21 . Antalgic - Addams Family Devalued<br />
+22 . Waffensupermarkt - Infrared (Original Mix)<br />
+23 . Michael Idehall - Language Of The Birds<br />
+</p>
+
+<p><a name="rzpl752"></a> <strong>Playlist der 752. RauschZeit vom 23.04.2026</strong><br />
 coming soon.
 </p>

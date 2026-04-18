@@ -156,7 +156,7 @@ tbd.
 13 . Magnitudo 8 - Compulsive Noise (Special version 2018)<br />
 14 . SOVA - Light to Ash<br />
 15 . SOVA - Untitled Club Banger 1<br />
-16 . STRISC . - Discharge<br />
+16 . STRISC. - Discharge<br />
 17 . PYROCLASTIC - Blood From Russian Oil To Ukraine Soil (Dyslexic Edit)<br />
 18 . Hypnoskull - Was Hier Vorgeht (33mhz Edit)<br />
 19 . Sei2ure - Peer Pressure<br />

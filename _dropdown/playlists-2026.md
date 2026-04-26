@@ -195,5 +195,31 @@ tbd.
 </p>
 
 <p><a name="rzpl752"></a> <strong>Playlist der 752. RauschZeit vom 23.04.2026</strong><br />
+01 . Meat Beat Manifesto - Prime Audio Soup<br />
+02 . This Morn' Omina - Sekhem<br />
+03 . Jonas Kopp - Ork<br />
+04 . Pandora's Black Book & Mechanoreceptor - Lunar Tides<br />
+05 . Antechamber - Octo Araga<br />
+06 . Repitch - Your Lies<br />
+07 . Luke Lund - Pity No One (Lowlife Mix)<br />
+08 . Snuffo - Cosmic Intervention<br />
+09 . Chandarma - Init@Ion (Feat. Sally Bumps) [Digital Version]<br />
+10 . Trudge - I Tried To Untie The Knots<br />
+11 . Zanias - Komodo<br />
+12 . Sylac - Defence Matrix<br />
+13 . Assuc - Hard Bites (Original Mix)<br />
+14 . I Hate Models & Vitalic - Sexy Beast<br />
+15 . Waffensupermarkt - Strafkolonie<br />
+16 . Petru KSS - Ketarion (Rework)<br />
+17 . Azan Caro - Ballade In 1853<br />
+18 . Roüge - Villain<br />
+19 . Lauterkrach - I Have Some Bad Fucking Habits<br />
+20 . Cubic Nomad & Embrionyc ft. Emma Susanne - The Promised Land<br />
+21 . Evasounds - Disconnect<br />
+22 . Grotta Veterano & Music For Sleep - If Only You Knew What You Claim To<br />
+</p>
+
+
+<p><a name="rzpl753"></a> <strong>Playlist der 753. RauschZeit vom 07.05.2026</strong><br />
 coming soon.
 </p>

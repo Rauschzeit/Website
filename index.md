@@ -14,8 +14,8 @@ title: RauschZeit
 <br /><br />
 <p style="text-align: left;">
     <strong>
-        # RauschZeit Nr.753<br />
-        # 07.05.2026 von 21h - 23h
+        # RauschZeit Nr.754<br />
+        # 21.05.2026 von 21h - 23h
     </strong>
 </p>
 

@@ -251,6 +251,110 @@ tbd.
 28 . Drexciya - Andreaen Sand Dunes<br />
 </p>
 
+<p><a name="rzpl750jubi"></a> <strong>Playlist der 750er Jubiläumssendung der RauschZeit vom 08.05.2026</strong><br />
+01. The Relic - Duck Hunt<br />
+02. Der Heine - Ich verschmelze mit dir (Noise Version)<br />
+03. Sans-Fin - Forcer<br />
+04. Ah Cama-Sotz - Flesh Code<br />
+05. Greyhound - Noise In The Channel<br />
+06. Torture Gallery - Repulse<br />
+07. Hypoxic & CRTPC - A Different Kind Of God<br />
+08. The Machinist - Interspecies Terrorism<br />
+09. Braintune - The Noise Complained<br />
+10. Dirty K. - Death, Drugs And Beauty<br />
+11. The Last Days Of S.E.X. - Venezuela Mediterranean<br />
+12. Shrouds - Infall Vector<br />
+13. Monolith - Temple Of Darkness<br />
+14. Mental Fear Production - Merging Intelligence<br />
+15. Stan Grewzell - Hacked<br />
+16. Statiqbloom - Into The Depths<br />
+17. Nanostrom - Into The Dark Lands<br />
+18. Stormtrooper - The Narcotic Impact<br />
+19. Shatterling - Deluge (Extended Version)<br />
+20. Flucc - Kraken<br />
+21. Philipp Münch - Lower Cave<br />
+22. Thorofon - Mute Them<br />
+23. Riotmiloo - Blackout<br />
+24. Fotocopia - Parking Tanatorio<br />
+25. Dame Area - Innamorata del tuo Controllo<br />
+26. Siamgda & Marie - New Trashed Body<br />
+27. Hugging Hate - Live @ Rauschzeit<br />
+28. Naomi Sample & The Go Go Ghosts - Get Up Work Sleep Reset (Robodop Snei Variation)<br />
+29. ZackiBoy - Immer Ehrlich (feat. Andreas Dorau)<br />
+30. Das Flug - Alles musz in Flammen stehen<br />
+31. Grand Hotel Abgrund - Immer wenn du lachst<br />
+32. Egotronic - Ich kann’s nicht sagen (Tathandlung Remix)<br />
+33. Björn Peng & Strizi Streuner - Die Diktatur des Dreiecks<br />
+34. Unicorn Partisans - Glitterize<br />
+35. Alle werden fallen - Dopamin<br />
+36. Aktion Fiasko - Desolat<br />
+37. Kem Trail - Der Sachbearbeiter (feat Kris Kandinsky)<br />
+38. Kotze im Einkaufswagen - Heute im Donnerstag (Vishn’n’Chips Remix by Hugging Hate)<br />
+39. Kid Knorke & Betty Bluescreen - Aliens<br />
+40. Alles.Scheisze - Für immer unprofessionell<br />
+41. Infant Sanchos - Hybris<br />
+42. East German Beauties - Das ist Kunst<br />
+43. Team Scheisse & DJ Hornhaut - Vorgesetzter (DJ Hornhaut Remix)<br />
+44. Ursula - Auf der anderen Seite<br />
+45. Pep im Kühlschrank - Pfefferminzlikör (Tathandlung Remix)<br />
+46. The Rorschach Garden - Dancing Day<br />
+47. Jimmy Sonnenstrand  - Live @ Rauschzeit<br />
+48. Night/T\Mare - The Succession Of Things<br />
+49. Dwayne Martin - Nails<br />
+50. Thomas P. Heckmann - Der Leuchtende Pfad<br />
+51. PWCCA - The Offspring<br />
+52. Canibal7 - Necromancy<br />
+53. Cubic Nomad - Spice Mining<br />
+54. Cri Du Coeur - Cyanure<br />
+55. Lakej - Enmity<br />
+56. J. Blofeld - Araey<br />
+57. Warnung - Oscillar<br />
+58. Bours? - Migratory Birds<br />
+59. SHXCXCHCXSH - QQQO<br />
+60. Pyramidal Decode - Fighter<br />
+61. Boys Noize - SNDY (Héctor Oaks Dirty Rave Mix)<br />
+62. Applescal - Johnapunkt (2026 Version)<br />
+63. Nine Inch Noize - Came Back Haunted<br />
+64. Xotox - The Price We Pay For Happiness (Cervello Elettronico Remix)<br />
+65. Scalameriya - Aurifex Rex<br />
+66. Proyecto Mirage - Rafagas de Energia<br />
+67. 13th Monkey - Prannok Fear<br />
+68. 1979. . Fandom<br />
+69. The Obsessed - How Much Can You Take<br />
+70. Prax - Violation<br />
+71. Lenny Dee & Malke - Money In The Bag<br />
+72. Satronica & Narc - Revelry<br />
+73. 16Pad Noise Terrorist - Musical Respectives<br />
+74. Lowroller & DJ Predator - Bark Scale<br />
+75. The Outside Agency - Nightcaster<br />
+76. Triamer & Nagato - Colombo (feat. Savage)<br />
+77. Barbarix - Do It Now<br />
+78. Dolphin - Black Gold (VIP Remix)<br />
+79. Spherical Disrupted - Altair (Wobble Remix by The_Empath)<br />
+80. TRAS - Les ruinés abandonnés (Edelfaul Records)<br />
+81. Joachim Nordwall & Aaron Turner - The Bath (Ash International)<br />
+82. Stärker - Continuum (Aesthetical)<br />
+83. Deprivation - Mortificazione (Solium)<br />
+84. Kar Pouzi - Bean (Rekem Records)<br />
+85. Trigger Object - Goodbye Beautiful (SIGE Records/EMS Records)<br />
+86. SUERO & ILLMAN - A Hole (BLACKSMITH NOISE RECORDS)<br />
+87. Spectre Horsemen & Pale With Dust - 964 Version (self-released)<br />
+88. Runi Graph - The Last Days of Pompeii (self-released)<br />
+89. e3l - bug (Solium)<br />
+90. PEB - PYRN (Edelfaul Records)<br />
+91. Teresa Riemann - Les animaux (Fort Evil Fruit)<br />
+92. bod kin - kindling (MFZ Records)<br />
+93. Talpah & Violent Magic Orchestra - The Third Lie (Transatlantic)<br />
+94. This Morn Omina - Body Of Light<br />
+95. Somatic Response - Mcatxt Doomcut<br />
+96. Michael Idehall - Lakwa<br />
+97. Mace. - Privatised Keneysianism<br />
+98. Static Logic - Wearing a Mood<br />
+99. :10: x Barcoder - Nothing’s Real<br />
+100. Sonic Area - Spiritus Contra Spiritum<br />
+101. Flint Glass & Ah Cama-Sotz - The Fallen Autarch (City Hymn)<br />
+102. (ad)Vance(d) - Zero<br />
+</p>
 
 <p><a name="rzpl754"></a> <strong>Playlist der 754. RauschZeit vom 21.05.2026</strong><br />
 coming soon.

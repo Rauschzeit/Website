@@ -111,31 +111,31 @@ priority: 26
 25 . Shed - Absolute<br />
 26 . Greg Dallas & Jan Esbra - High Tide<br /></p>
 <p><a name="rzpl670"></a> <strong>Playlist der 670. RauschZeit vom 02.03.2023</strong><br />
-01. Rendered - Stronger<br />
-02. Grodock - Willkommenheißung<br />
-03. Unknown (Literally) - Side B<br />
-04. Control - Time To Decimate<br />
-05. Le Moderniste - Pestis<br />
-06. Hezzel - Madeleine<br />
-07. Soulkeeper - Xtranoise<br />
-08. Surgery Head - Upon Inspection, The Emaciated Corpse Turns Out to Be A Twisted, Dagger Welding Vampire, Waiting For It's Chance To Attack<br />
-09. Mentallo & The Fixer - Telepath (30th Anniversary)<br />
-10. Blush Response - Flow My Tears<br />
-11. Last Days Of S.E.X. - Center Of Attention<br />
-12. Mono No Aware - 2nd Face<br />
-13. Recon - Our Streets<br />
-14. Distortion Six - Savage<br />
-15. Yura Yura - Suspiria (FoH 19 Remix)<br />
-16. Maschinenkrieger KR52 - Human Virus<br />
-17. Kult 303 - Sloth<br />
-18. Artillery Nightspace - Horn Shadow<br />
-19. Dirty K. - Wreckage<br />
-20. <1979> - Hope<br />
-21. 16Pad Noise Terrorist - Evilment (Hypnoskull Remix)<br />
-22. Monolog - Open Blade Return<br />
-23. Nullvektor - Schleifmühle<br />
-24. Dazzling Malicious - Infinite Corridor Of Thoughts<br />
-25. EXM - Ioeides<br /></p>
+01 . Rendered - Stronger<br />
+02 . Grodock - Willkommenheißung<br />
+03 . Unknown (Literally) - Side B<br />
+04 . Control - Time To Decimate<br />
+05 . Le Moderniste - Pestis<br />
+06 . Hezzel - Madeleine<br />
+07 . Soulkeeper - Xtranoise<br />
+08 . Surgery Head - Upon Inspection, The Emaciated Corpse Turns Out to Be A Twisted, Dagger Welding Vampire, Waiting For It's Chance To Attack<br />
+09 . Mentallo & The Fixer - Telepath (30th Anniversary)<br />
+10 . Blush Response - Flow My Tears<br />
+11 . Last Days Of S.E.X. - Center Of Attention<br />
+12 . Mono No Aware - 2nd Face<br />
+13 . Recon - Our Streets<br />
+14 . Distortion Six - Savage<br />
+15 . Yura Yura - Suspiria (FoH 19 Remix)<br />
+16 . Maschinenkrieger KR52 - Human Virus<br />
+17 . Kult 303 - Sloth<br />
+18 . Artillery Nightspace - Horn Shadow<br />
+19 . Dirty K. - Wreckage<br />
+20 . <1979> - Hope<br />
+21 . 16Pad Noise Terrorist - Evilment (Hypnoskull Remix)<br />
+22 . Monolog - Open Blade Return<br />
+23 . Nullvektor - Schleifmühle<br />
+24 . Dazzling Malicious - Infinite Corridor Of Thoughts<br />
+25 . EXM - Ioeides<br /></p>
 <p><a name="rzpl671"></a> <strong>Playlist der 671. RauschZeit vom 16.03.2023</strong><br />
 01 . Dystopiker & Nyppy - A Lesson In Rudimentary Phenomenology<br />
 02 . Autoclav1.1 - The Futile<br />
@@ -209,31 +209,31 @@ priority: 26
 21 . Sleaford Mods - UK Grim<br />
 22 . Monolith - Immortal (Edit Version)<br /></p>
 <p><a name="rzpl674"></a> <strong>Playlist der 674. RauschZeit vom 27.04.2023</strong><br />
-01. Gerda Orden - Shackles And Chains<br />
-02. Somatic Responses - User Drone 1<br />
-03. Vincento Pizzi - Overture & Manifesto<br />
-04. Drowned Memories - Emerging<br />
-05. Tapefeed - Lidocaine<br />
-06. Orphx - All Rivers At Once<br />
-07. Confluencia - Impasible<br />
-08. Mystics - MmhMmmh<br />
-09. Monolith - The Sky Turns Red<br />
-10. Edgar De Ramon - Rave Again (Tensai Remix)<br />
-11. PWCCA - Test For Randomness<br />
-12. Angel Attack - Come To Me<br />
-13. Shrouds - Torn Apart<br />
-14. Flesh Interface - Eradicated<br />
-15. ADJ - Natural State<br />
-16. LKPAS & Hiroshi Matsui - Dirty Neptune<br />
-17. Paul Avarez - Butterflies In The Sky<br />
-18. Zainetica - Signals<br />
-19. The Allegorist - Moving Forward (Snakes Of Russia Rework)<br />
-20. QuadratoX - Spartium & Lilium<br />
-21. AkMD - The Mask (Exclusive)<br />
-22. Occeur - Radical<br />
-23. Eeem [eim] - Le Cycle De La Matière<br />
-24. Christina Kubisch - La Nuit De L'Arène<br />
-25. Bastian Dietz - Alarmtag Im Vogelpark (Ansichten)<br /></p>
+01 . Gerda Orden - Shackles And Chains<br />
+02 . Somatic Responses - User Drone 1<br />
+03 . Vincento Pizzi - Overture & Manifesto<br />
+04 . Drowned Memories - Emerging<br />
+05 . Tapefeed - Lidocaine<br />
+06 . Orphx - All Rivers At Once<br />
+07 . Confluencia - Impasible<br />
+08 . Mystics - MmhMmmh<br />
+09 . Monolith - The Sky Turns Red<br />
+10 . Edgar De Ramon - Rave Again (Tensai Remix)<br />
+11 . PWCCA - Test For Randomness<br />
+12 . Angel Attack - Come To Me<br />
+13 . Shrouds - Torn Apart<br />
+14 . Flesh Interface - Eradicated<br />
+15 . ADJ - Natural State<br />
+16 . LKPAS & Hiroshi Matsui - Dirty Neptune<br />
+17 . Paul Avarez - Butterflies In The Sky<br />
+18 . Zainetica - Signals<br />
+19 . The Allegorist - Moving Forward (Snakes Of Russia Rework)<br />
+20 . QuadratoX - Spartium & Lilium<br />
+21 . AkMD - The Mask (Exclusive)<br />
+22 . Occeur - Radical<br />
+23 . Eeem [eim] - Le Cycle De La Matière<br />
+24 . Christina Kubisch - La Nuit De L'Arène<br />
+25 . Bastian Dietz - Alarmtag Im Vogelpark (Ansichten)<br /></p>
 <p><a name="rzpl675"></a> <strong>Playlist der 675. RauschZeit vom 11.05.2023</strong><br />
 01 . Dragon - Collapsing Code<br />
 02 . the_empath - Supermassiph<br />

@@ -399,7 +399,7 @@ priority: 29
 19 . Zei, Ted Brasko - Mess Around With Blindness<br />
 20 . Hackedei - Kein Kriterium Für Frische (Dreampop)<br />
 21 . Human Brain Source Code - Portal To A Random Place<br />
-22 . Mute . - The Ever Present Absence - First Verse - The Denial<br />
+22 . Mute. - The Ever Present Absence - First Verse - The Denial<br />
 23 . Emmanuel De La Paix  - Studio 2 Noise - 023<br />
 24 . Samsuo - Glide In The Shade<br />
 </p>

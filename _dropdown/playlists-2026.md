@@ -378,5 +378,32 @@ priority: 29
 </p>
 
 <p><a name="rzpl754"></a> <strong>Playlist der 754. RauschZeit vom 21.05.2026</strong><br />
+01 . Gewaltem - Soryandum<br />
+02 . This Morn' Omina - Nalanda<br />
+03 . Mohok - Into The Grid (Pandora’S Black Book Mix)<br />
+04 . Incendie - Solitary Collapse<br />
+05 . Speedy J - Prkrsq_Mmf2_T_01.Wav<br />
+06 . Converter - Garden Of Earthly Delights<br />
+07 . Kilmarth - Punch The Air (Feat . Natasha Moreno)<br />
+08 . Circumpolar - Let The Light Come In (Short Sequence)<br />
+09 . Geistform - Abset<br />
+10 . Heimstatt Yipotash - Maelstrom<br />
+11 . Monya - Kalter Hauch<br />
+12 . One Again - Trashy<br />
+13 . Ah Cama-Sotz - Urban Nocturne<br />
+14 . Trudge - Frozen Glass Dome<br />
+15 . Rhys Fulber - The Abyss (Feat . Qual)<br />
+16 . Maasym - Distal Pinnae<br />
+17 . Applescal - Joey'S Mouse (2026 Version)<br />
+18 . Studiogegner - Wie Ich Ein Fisch Wurde<br />
+19 . Zei, Ted Brasko - Mess Around With Blindness<br />
+20 . Hackedei - Kein Kriterium Für Frische (Dreampop)<br />
+21 . Human Brain Source Code - Portal To A Random Place<br />
+22 . Mute . - The Ever Present Absence - First Verse - The Denial<br />
+23 . Emmanuel De La Paix  - Studio 2 Noise - 023<br />
+24 . Samsuo - Glide In The Shade<br />
+</p>
+
+<p><a name="rzpl755"></a> <strong>Playlist der 755. RauschZeit vom 04.06.2026</strong><br />
 coming soon.
 </p>

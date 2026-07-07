@@ -405,5 +405,58 @@ priority: 29
 </p>
 
 <p><a name="rzpl755"></a> <strong>Playlist der 755. RauschZeit vom 04.06.2026</strong><br />
+tbd.
+</p>
+
+<p><a name="rzpl756"></a> <strong>Playlist der 756. RauschZeit vom 18.06.2026</strong><br />
+01. Alles Core, Irgendwie - Essen Läutet, Duisburg Lärmt<br />
+02. Wahn - House Of The Undying<br />
+03. Malady Of Knots & Relay Station - T.E.D.S.<br />
+04. This Morn' Omina - Decline And Fall Of Empires<br />
+05. Spherical Disrupted - Altair (The Root Of All Sin By B°Tong)<br />
+06. Reginald Klewes - Die Nomenklatura Strebt Zum Kalten Buffet<br />
+07. Body Stress X Jonathan Bergen - Glass Fibre Mask (The Loss Of Facial Expression)<br />
+08. Torture Gallery - Sins Of The Father<br />
+09. C.C.C.C - Imr-32<br />
+10. Incapacitants - Automatic Loss Cut<br />
+11. Monde Bruits - Continuum<br />
+12. Masonna - Testicles Candy, Pt. 1~13<br />
+13. Violent Onsen Geisha - Death Mothership Connection<br />
+14. Solmania - Derrick Master Switchback<br />
+15. Imperator Furyosa - Persephone<br />
+16. Adam Majdecki-Janicki - Dead Futurists<br />
+17. Imminent - Necunoscut<br />
+18. Lodge - Ich, Der Alambic, Überflute Die Welt<br />
+19. Nelly Quist - Begin Signal<br />
+20. Vacant Possession & Basic Tape Loops - Small Things Long Forgotten<br />
+</p>
+
+<p><a name="rzpl757"></a> <strong>Playlist der 757. RauschZeit vom 02.07.2026</strong><br />
+01. Institut Für Leistungsabfall Und Kontemplation - Institut<br />
+02. Test Dept - Gdańsk (Red Herrings Version)<br />
+03. Solypsis & Deftly Demolition - Disassembly Break<br />
+04. <1979> - Disorder<br />
+05. Cathode Ray Tube - Dionysus<br />
+06. Shxcxchcxsh - Drow<br />
+07. Statiqbloom + Blush Response - Rosemary Kennedy<br />
+08. Converter - Death And The Miser<br />
+09. Falhaber - Breaking Trough<br />
+10. Mental Fear Productions - Merging Intelligence<br />
+11. Simon Grab - The Earth Turning In The Red<br />
+12. Somatic Responses - Mcatxt Doomcut<br />
+13. Heimstatt Yipotash - Nemesis<br />
+14. Wieloryb - Blok S<br />
+15. Ms Gentur + Sven Phalanx - Substanz<br />
+16. Monolith - Temple Of Darkness<br />
+17. Stahlschlag - Salix<br />
+18. Perdu D'Avance - Ici C'Est Pire<br />
+19. Torture Gallery - Trauma Response<br />
+20. The Undertaker'S Tape - The Cursed Path<br />
+21. Collagist - Małpačka<br />
+22. Thy Veils - A High Age<br />
+23. Formax Void - Sempiternal Night Shift<br />
+</p>
+
+<p><a name="rzpl758"></a> <strong>Playlist der 758. RauschZeit vom 16.07.2026</strong><br />
 coming soon.
 </p>

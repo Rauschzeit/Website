@@ -459,4 +459,28 @@ tbd.
 
 <p><a name="rzpl758"></a> <strong>Playlist der 758. RauschZeit vom 16.07.2026</strong><br />
 coming soon.
+01. Amas & Frithjof-Martin Grabner - Weite<br />
+02. Jeff Mills - Lyra<br />
+03. This Morn' Omina - Sekhem<br />
+04. Flint Glass & Ah Cama-Sotz - Neophyte Chamber<br />
+05. Gjöll - Of The Stillness<br />
+06. Alfrr Afriuq - Attaccabrighe<br />
+07. B12 'N' Black Dog Für Arme - Grolltreppe<br />
+08. Mentallo & The Fixer - The Moment You Realise / Silent Takeover<br />
+09. Venetian Snares - Baked Circuses Funk<br />
+10. Snuffo - Whims<br />
+11. Drexciya - Fusion Flats (Octave One Remix)<br />
+12. Diffuzion - Cycle (Mlada Fronta Mix)<br />
+13. Apaull - King Dome<br />
+14. Luigi Tozzi  - Oceanus (Original Mix)<br />
+15. Ashra Tample - N Wibek<br />
+16. Gary Holldman - Bui Vien<br />
+17. Coil - Nasa Arab<br />
+18. 505 - Hot Debut Ft. John-Dennis Renken<br />
+19. Model 500 - B - Starlight [Deepchord Mix]<br />
+20. Bām̐Dara Ft Karmaa - Segunda<br />
+</p>
+
+<p><a name="rzpl759"></a> <strong>Playlist der 759. RauschZeit vom 30.07.2026</strong><br />
+coming soon.
 </p>

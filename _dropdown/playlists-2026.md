@@ -482,5 +482,57 @@ coming soon.
 </p>
 
 <p><a name="rzpl759"></a> <strong>Playlist der 759. RauschZeit vom 30.07.2026</strong><br />
+01. ROÜGE - Under The City (Illnurse Remix)<br />
+02. Dave Mech - Berlin Seite Part 1 (Live at Oxi Berlin)<br />
+03. Dave Mech - Berlin Seite Part 2 (Live at Oxi Berlin)<br />
+04. Falhaber - Forever<br />
+05. Max Gardner - Signal Reissue<br />
+06. Ronove - Anarkhos<br />
+07. Statiqbloom - Apparitions<br />
+08. Thomas P. Heckmann - Death - The High Costs Of Living (Perc Remix)<br />
+09. Illnurse - Vannas<br />
+10. Nørbak - Americana<br />
+11. Makornik - Stuck In A Machine<br />
+12. Trust True - Barbarian<br />
+13. Sara Landry - Frenzy<br />
+14. Valerie Ace - Lessons Learned<br />
+15. Warnung - RT_01<br />
+16. Jacidorex - Ritual<br />
+17. Cubic Nomad & Embrionyc ft. Emma Susanne - The Promised Land<br />
+18. Eskha - Thats No Just A Broomstick Harry (Original Mix)<br />
+19. Character 1 - Future Beijing Fiction (Original Mix)<br />
+20. NWHR - 2028<br />
+21. Surt - Nil (Digital Only)<br />
+22. Nastia - Elephant Dreamin<br />
+23. Us & Sparkles - It Was Already In Me<br />
+</p>
+
+<p><a name="rzpl760"></a> <strong>Playlist der 760. RauschZeit vom 13.08.2026</strong><br />
+01. Shrouds - Infall Vector<br />
+02. Emmanuel De La Paix  - Studio 2 Noise<br />
+03. Gjöll - Become One With The Emptiness<br />
+04. <1979> - Trip<br />
+05. Bdacid - Fire & Death (Slowcore Edit)<br />
+06. Dirty K. - Death Drugs & Beauty<br />
+07. Project4Life - Still Waters Run Deep<br />
+08. Machinist - Interspecies Terrorism<br />
+09. Mono No Aware - Frost<br />
+10. [Fabrikmutter] - Your Reaction (Min:Im:Um Gen:Ocide Rmx)<br />
+11. S.K.E.T. - The Great Divider<br />
+12. Sans-Fin - Forcer<br />
+13. Sova - The Fabric Of Fortune<br />
+14. Cassie Raptor - Fire Dance With Me (Somniac One Remix)<br />
+15. EAS - Mad About Everyone<br />
+16. Cubic Nomad - Outsiders<br />
+17. Braintune - Daddy Issues<br />
+18. Zanthrax - Dark By Nature (Replica By Embrionyc)<br />
+19. Megadon - Hostile Planet<br />
+20. The Silence - Sunblock<br />
+21. Yhunykx - Terremoto<br />
+22. Operant - Access To The Simulator<br />
+23. 100 Kilo Maarten - All Kinds Of Music<br />
+</p>
+
+<p><a name="rzpl761"></a> <strong>Playlist der 761. RauschZeit vom 27.08.2026</strong><br />
 coming soon.
 </p>

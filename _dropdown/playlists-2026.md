@@ -534,5 +534,32 @@ coming soon.
 </p>
 
 <p><a name="rzpl761"></a> <strong>Playlist der 761. RauschZeit vom 27.08.2026</strong><br />
+01. Mist Gasp - I Do Not<br />
+02. Aöcram - Recharged Neutrons<br />
+03. Operator - Benthic Laboratory On Enceladus<br />
+04. Viels - Wujhca<br />
+05. Casual Treatment - Tactical Studies<br />
+06. Nørbak - Causalidade<br />
+07. UVB - Assassination Techniques<br />
+08. Mesh Convergence - Between Who I Am<br />
+09. PWCCA - Circle Trip<br />
+10. Thomas P. Heckmann - Acid Seduction<br />
+11. Thanos Hana - Assumption<br />
+12. Mystics - Fake Three<br />
+13. Ruman - Die like a man like your brother did<br />
+14. Vincenzo Pizzi - Mena Forte<br />
+15. ICD-10 - Rigor Mortis<br />
+16. Pleasures - Club Simulator 01<br />
+17. Jokasti & Nek - Beads<br />
+18. Kreuz - Kazadum<br />
+19. SAMOH - FP3<br />
+20. Vexillary - The Smoke (Statiqbloom ReDub)<br />
+21. Endlec - Hunter In The Shadows<br />
+22. Superplasticfantastic - Panarus<br />
+23. Michal Wolski  - Panaceum<br />
+24. Pascal Hetzel - TWST (GAEL Remix)<br />
+</p>
+
+<p><a name="rzpl762"></a> <strong>Playlist der 762. RauschZeit vom 10.09.2026</strong><br />
 coming soon.
 </p>

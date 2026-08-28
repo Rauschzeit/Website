@@ -14,8 +14,8 @@ title: RauschZeit
 <br /><br />
 <p style="text-align: left;">
     <strong>
-        # RauschZeit Nr.761<br />
-        # 27.08.2026 von 21h - 23h
+        # RauschZeit Nr.762<br />
+        # 10.09.2026 von 21h - 23h
     </strong>
 </p>
 

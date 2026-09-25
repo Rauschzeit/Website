@@ -561,5 +561,37 @@ coming soon.
 </p>
 
 <p><a name="rzpl762"></a> <strong>Playlist der 762. RauschZeit vom 10.09.2026</strong><br />
+tbd.
+</p>
+
+<p><a name="rzpl763"></a> <strong>Playlist der 763. RauschZeit vom 24.09.2026</strong><br />
+01 . Urban Matrix - He, Who Leads The Whole World Astray<br />
+02 . Pilocka Krach - Inferno Paradiso (Und Dann Mal Kucken) Feat . Mendrix <br />
+03 . AL - Forbidden<br />
+04 . Kilmarth - Leaving Behind A Silent Darkness (Feat . Heri B.)<br />
+05 . Epiphaneia - From The Heights V2<br />
+06 . Vexillary - Riptide<br />
+07 . Fragments - In This Nite (Midiman Remix)<br />
+08 . Rotersand - Exterminate Annihilate Destroy<br />
+09 . Matt Hart - Absolute Zero (Rotersand Classic Ride Rework)<br />
+10 . Studio-X - Butene Machines<br />
+11 . Neikka Rpm - You'Re My Poison<br />
+12 . Embrionyc - Dark Grounds<br />
+13 . Heimstatt Yipotash - Nemesis<br />
+14 . Thomas P . Heckmann - Release The Pain (Liebknecht Remix)<br />
+15 . Dante - Initiate<br />
+16 . Der Heine - Ich Verschmelze Mit Dir<br />
+17 . Aesthetische - Chew The Loop (Shortmix)<br />
+18 . Adam X - Change Of Gameplan<br />
+19 . Orphx - The Moon Was In My Heart<br />
+20 . Apaull - Gunfactor<br />
+21 . Ingwerter - You Are Already Complete<br />
+22 . Gesichtsmodello - Uhrzeigersinn (Xotox Remix)<br />
+23 . Model 500 - Starlight [Echospace Mix]<br />
+24 . Sonic Area - Transmute<br />
+25 . Dva Dereva - Black Spring<br />
+</p>
+
+<p><a name="rzpl764"></a> <strong>Playlist der 764. RauschZeit vom 08.10.2026</strong><br />
 coming soon.
 </p>

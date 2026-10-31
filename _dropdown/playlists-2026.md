@@ -409,159 +409,181 @@ tbd.
 </p>
 
 <p><a name="rzpl756"></a> <strong>Playlist der 756. RauschZeit vom 18.06.2026</strong><br />
-01. Alles Core, Irgendwie - Essen Läutet, Duisburg Lärmt<br />
-02. Wahn - House Of The Undying<br />
-03. Malady Of Knots & Relay Station - T.E.D.S.<br />
-04. This Morn' Omina - Decline And Fall Of Empires<br />
-05. Spherical Disrupted - Altair (The Root Of All Sin By B°Tong)<br />
-06. Reginald Klewes - Die Nomenklatura Strebt Zum Kalten Buffet<br />
-07. Body Stress X Jonathan Bergen - Glass Fibre Mask (The Loss Of Facial Expression)<br />
-08. Torture Gallery - Sins Of The Father<br />
-09. C.C.C.C - Imr-32<br />
-10. Incapacitants - Automatic Loss Cut<br />
-11. Monde Bruits - Continuum<br />
-12. Masonna - Testicles Candy, Pt. 1~13<br />
-13. Violent Onsen Geisha - Death Mothership Connection<br />
-14. Solmania - Derrick Master Switchback<br />
-15. Imperator Furyosa - Persephone<br />
-16. Adam Majdecki-Janicki - Dead Futurists<br />
-17. Imminent - Necunoscut<br />
-18. Lodge - Ich, Der Alambic, Überflute Die Welt<br />
-19. Nelly Quist - Begin Signal<br />
-20. Vacant Possession & Basic Tape Loops - Small Things Long Forgotten<br />
+01 . Alles Core, Irgendwie - Essen Läutet, Duisburg Lärmt<br />
+02 . Wahn - House Of The Undying<br />
+03 . Malady Of Knots & Relay Station - T.E.D.S.<br />
+04 . This Morn' Omina - Decline And Fall Of Empires<br />
+05 . Spherical Disrupted - Altair (The Root Of All Sin By B°Tong)<br />
+06 . Reginald Klewes - Die Nomenklatura Strebt Zum Kalten Buffet<br />
+07 . Body Stress X Jonathan Bergen - Glass Fibre Mask (The Loss Of Facial Expression)<br />
+08 . Torture Gallery - Sins Of The Father<br />
+09 . C.C.C.C - Imr-32<br />
+10 . Incapacitants - Automatic Loss Cut<br />
+11 . Monde Bruits - Continuum<br />
+12 . Masonna - Testicles Candy, Pt . 1~13<br />
+13 . Violent Onsen Geisha - Death Mothership Connection<br />
+14 . Solmania - Derrick Master Switchback<br />
+15 . Imperator Furyosa - Persephone<br />
+16 . Adam Majdecki-Janicki - Dead Futurists<br />
+17 . Imminent - Necunoscut<br />
+18 . Lodge - Ich, Der Alambic, Überflute Die Welt<br />
+19 . Nelly Quist - Begin Signal<br />
+20 . Vacant Possession & Basic Tape Loops - Small Things Long Forgotten<br />
 </p>
 
 <p><a name="rzpl757"></a> <strong>Playlist der 757. RauschZeit vom 02.07.2026</strong><br />
-01. Institut Für Leistungsabfall Und Kontemplation - Institut<br />
-02. Test Dept - Gdańsk (Red Herrings Version)<br />
-03. Solypsis & Deftly Demolition - Disassembly Break<br />
-04. <1979> - Disorder<br />
-05. Cathode Ray Tube - Dionysus<br />
-06. Shxcxchcxsh - Drow<br />
-07. Statiqbloom + Blush Response - Rosemary Kennedy<br />
-08. Converter - Death And The Miser<br />
-09. Falhaber - Breaking Trough<br />
-10. Mental Fear Productions - Merging Intelligence<br />
-11. Simon Grab - The Earth Turning In The Red<br />
-12. Somatic Responses - Mcatxt Doomcut<br />
-13. Heimstatt Yipotash - Nemesis<br />
-14. Wieloryb - Blok S<br />
-15. Ms Gentur + Sven Phalanx - Substanz<br />
-16. Monolith - Temple Of Darkness<br />
-17. Stahlschlag - Salix<br />
-18. Perdu D'Avance - Ici C'Est Pire<br />
-19. Torture Gallery - Trauma Response<br />
-20. The Undertaker'S Tape - The Cursed Path<br />
-21. Collagist - Małpačka<br />
-22. Thy Veils - A High Age<br />
-23. Formax Void - Sempiternal Night Shift<br />
+01 . Institut Für Leistungsabfall Und Kontemplation - Institut<br />
+02 . Test Dept - Gdańsk (Red Herrings Version)<br />
+03 . Solypsis & Deftly Demolition - Disassembly Break<br />
+04 . <1979> - Disorder<br />
+05 . Cathode Ray Tube - Dionysus<br />
+06 . Shxcxchcxsh - Drow<br />
+07 . Statiqbloom + Blush Response - Rosemary Kennedy<br />
+08 . Converter - Death And The Miser<br />
+09 . Falhaber - Breaking Trough<br />
+10 . Mental Fear Productions - Merging Intelligence<br />
+11 . Simon Grab - The Earth Turning In The Red<br />
+12 . Somatic Responses - Mcatxt Doomcut<br />
+13 . Heimstatt Yipotash - Nemesis<br />
+14 . Wieloryb - Blok S<br />
+15 . Ms Gentur + Sven Phalanx - Substanz<br />
+16 . Monolith - Temple Of Darkness<br />
+17 . Stahlschlag - Salix<br />
+18 . Perdu D'Avance - Ici C'Est Pire<br />
+19 . Torture Gallery - Trauma Response<br />
+20 . The Undertaker'S Tape - The Cursed Path<br />
+21 . Collagist - Małpačka<br />
+22 . Thy Veils - A High Age<br />
+23 . Formax Void - Sempiternal Night Shift<br />
 </p>
 
 <p><a name="rzpl758"></a> <strong>Playlist der 758. RauschZeit vom 16.07.2026</strong><br />
-coming soon.
-01. Amas & Frithjof-Martin Grabner - Weite<br />
-02. Jeff Mills - Lyra<br />
-03. This Morn' Omina - Sekhem<br />
-04. Flint Glass & Ah Cama-Sotz - Neophyte Chamber<br />
-05. Gjöll - Of The Stillness<br />
-06. Alfrr Afriuq - Attaccabrighe<br />
-07. B12 'N' Black Dog Für Arme - Grolltreppe<br />
-08. Mentallo & The Fixer - The Moment You Realise / Silent Takeover<br />
-09. Venetian Snares - Baked Circuses Funk<br />
-10. Snuffo - Whims<br />
-11. Drexciya - Fusion Flats (Octave One Remix)<br />
-12. Diffuzion - Cycle (Mlada Fronta Mix)<br />
-13. Apaull - King Dome<br />
-14. Luigi Tozzi  - Oceanus (Original Mix)<br />
-15. Ashra Tample - N Wibek<br />
-16. Gary Holldman - Bui Vien<br />
-17. Coil - Nasa Arab<br />
-18. 505 - Hot Debut Ft. John-Dennis Renken<br />
-19. Model 500 - B - Starlight [Deepchord Mix]<br />
-20. Bām̐Dara Ft Karmaa - Segunda<br />
+01 . Amas & Frithjof-Martin Grabner - Weite<br />
+02 . Jeff Mills - Lyra<br />
+03 . This Morn' Omina - Sekhem<br />
+04 . Flint Glass & Ah Cama-Sotz - Neophyte Chamber<br />
+05 . Gjöll - Of The Stillness<br />
+06 . Alfrr Afriuq - Attaccabrighe<br />
+07 . B12 'N' Black Dog Für Arme - Grolltreppe<br />
+08 . Mentallo & The Fixer - The Moment You Realise / Silent Takeover<br />
+09 . Venetian Snares - Baked Circuses Funk<br />
+10 . Snuffo - Whims<br />
+11 . Drexciya - Fusion Flats (Octave One Remix)<br />
+12 . Diffuzion - Cycle (Mlada Fronta Mix)<br />
+13 . Apaull - King Dome<br />
+14 . Luigi Tozzi  - Oceanus (Original Mix)<br />
+15 . Ashra Tample - N Wibek<br />
+16 . Gary Holldman - Bui Vien<br />
+17 . Coil - Nasa Arab<br />
+18 . 505 - Hot Debut Ft . John-Dennis Renken<br />
+19 . Model 500 - B - Starlight [Deepchord Mix]<br />
+20 . Bām̐Dara Ft Karmaa - Segunda<br />
 </p>
 
 <p><a name="rzpl759"></a> <strong>Playlist der 759. RauschZeit vom 30.07.2026</strong><br />
-01. ROÜGE - Under The City (Illnurse Remix)<br />
-02. Dave Mech - Berlin Seite Part 1 (Live at Oxi Berlin)<br />
-03. Dave Mech - Berlin Seite Part 2 (Live at Oxi Berlin)<br />
-04. Falhaber - Forever<br />
-05. Max Gardner - Signal Reissue<br />
-06. Ronove - Anarkhos<br />
-07. Statiqbloom - Apparitions<br />
-08. Thomas P. Heckmann - Death - The High Costs Of Living (Perc Remix)<br />
-09. Illnurse - Vannas<br />
-10. Nørbak - Americana<br />
-11. Makornik - Stuck In A Machine<br />
-12. Trust True - Barbarian<br />
-13. Sara Landry - Frenzy<br />
-14. Valerie Ace - Lessons Learned<br />
-15. Warnung - RT_01<br />
-16. Jacidorex - Ritual<br />
-17. Cubic Nomad & Embrionyc ft. Emma Susanne - The Promised Land<br />
-18. Eskha - Thats No Just A Broomstick Harry (Original Mix)<br />
-19. Character 1 - Future Beijing Fiction (Original Mix)<br />
-20. NWHR - 2028<br />
-21. Surt - Nil (Digital Only)<br />
-22. Nastia - Elephant Dreamin<br />
-23. Us & Sparkles - It Was Already In Me<br />
+01 . ROÜGE - Under The City (Illnurse Remix)<br />
+02 . Dave Mech - Berlin Seite Part 1 (Live at Oxi Berlin)<br />
+03 . Dave Mech - Berlin Seite Part 2 (Live at Oxi Berlin)<br />
+04 . Falhaber - Forever<br />
+05 . Max Gardner - Signal Reissue<br />
+06 . Ronove - Anarkhos<br />
+07 . Statiqbloom - Apparitions<br />
+08 . Thomas P . Heckmann - Death - The High Costs Of Living (Perc Remix)<br />
+09 . Illnurse - Vannas<br />
+10 . Nørbak - Americana<br />
+11 . Makornik - Stuck In A Machine<br />
+12 . Trust True - Barbarian<br />
+13 . Sara Landry - Frenzy<br />
+14 . Valerie Ace - Lessons Learned<br />
+15 . Warnung - RT_01<br />
+16 . Jacidorex - Ritual<br />
+17 . Cubic Nomad & Embrionyc ft . Emma Susanne - The Promised Land<br />
+18 . Eskha - Thats No Just A Broomstick Harry (Original Mix)<br />
+19 . Character 1 - Future Beijing Fiction (Original Mix)<br />
+20 . NWHR - 2028<br />
+21 . Surt - Nil (Digital Only)<br />
+22 . Nastia - Elephant Dreamin<br />
+23 . Us & Sparkles - It Was Already In Me<br />
 </p>
 
 <p><a name="rzpl760"></a> <strong>Playlist der 760. RauschZeit vom 13.08.2026</strong><br />
-01. Shrouds - Infall Vector<br />
-02. Emmanuel De La Paix  - Studio 2 Noise<br />
-03. Gjöll - Become One With The Emptiness<br />
-04. <1979> - Trip<br />
-05. Bdacid - Fire & Death (Slowcore Edit)<br />
-06. Dirty K. - Death Drugs & Beauty<br />
-07. Project4Life - Still Waters Run Deep<br />
-08. Machinist - Interspecies Terrorism<br />
-09. Mono No Aware - Frost<br />
-10. [Fabrikmutter] - Your Reaction (Min:Im:Um Gen:Ocide Rmx)<br />
-11. S.K.E.T. - The Great Divider<br />
-12. Sans-Fin - Forcer<br />
-13. Sova - The Fabric Of Fortune<br />
-14. Cassie Raptor - Fire Dance With Me (Somniac One Remix)<br />
-15. EAS - Mad About Everyone<br />
-16. Cubic Nomad - Outsiders<br />
-17. Braintune - Daddy Issues<br />
-18. Zanthrax - Dark By Nature (Replica By Embrionyc)<br />
-19. Megadon - Hostile Planet<br />
-20. The Silence - Sunblock<br />
-21. Yhunykx - Terremoto<br />
-22. Operant - Access To The Simulator<br />
-23. 100 Kilo Maarten - All Kinds Of Music<br />
+01 . Shrouds - Infall Vector<br />
+02 . Emmanuel De La Paix  - Studio 2 Noise<br />
+03 . Gjöll - Become One With The Emptiness<br />
+04 . <1979> - Trip<br />
+05 . Bdacid - Fire & Death (Slowcore Edit)<br />
+06 . Dirty K . - Death Drugs & Beauty<br />
+07 . Project4Life - Still Waters Run Deep<br />
+08 . Machinist - Interspecies Terrorism<br />
+09 . Mono No Aware - Frost<br />
+10 . [Fabrikmutter] - Your Reaction (Min:Im:Um Gen:Ocide Rmx)<br />
+11 . S.K.E.T . - The Great Divider<br />
+12 . Sans-Fin - Forcer<br />
+13 . Sova - The Fabric Of Fortune<br />
+14 . Cassie Raptor - Fire Dance With Me (Somniac One Remix)<br />
+15 . EAS - Mad About Everyone<br />
+16 . Cubic Nomad - Outsiders<br />
+17 . Braintune - Daddy Issues<br />
+18 . Zanthrax - Dark By Nature (Replica By Embrionyc)<br />
+19 . Megadon - Hostile Planet<br />
+20 . The Silence - Sunblock<br />
+21 . Yhunykx - Terremoto<br />
+22 . Operant - Access To The Simulator<br />
+23 . 100 Kilo Maarten - All Kinds Of Music<br />
 </p>
 
 <p><a name="rzpl761"></a> <strong>Playlist der 761. RauschZeit vom 27.08.2026</strong><br />
-01. Mist Gasp - I Do Not<br />
-02. Aöcram - Recharged Neutrons<br />
-03. Operator - Benthic Laboratory On Enceladus<br />
-04. Viels - Wujhca<br />
-05. Casual Treatment - Tactical Studies<br />
-06. Nørbak - Causalidade<br />
-07. UVB - Assassination Techniques<br />
-08. Mesh Convergence - Between Who I Am<br />
-09. PWCCA - Circle Trip<br />
-10. Thomas P. Heckmann - Acid Seduction<br />
-11. Thanos Hana - Assumption<br />
-12. Mystics - Fake Three<br />
-13. Ruman - Die like a man like your brother did<br />
-14. Vincenzo Pizzi - Mena Forte<br />
-15. ICD-10 - Rigor Mortis<br />
-16. Pleasures - Club Simulator 01<br />
-17. Jokasti & Nek - Beads<br />
-18. Kreuz - Kazadum<br />
-19. SAMOH - FP3<br />
-20. Vexillary - The Smoke (Statiqbloom ReDub)<br />
-21. Endlec - Hunter In The Shadows<br />
-22. Superplasticfantastic - Panarus<br />
-23. Michal Wolski  - Panaceum<br />
-24. Pascal Hetzel - TWST (GAEL Remix)<br />
+01 . Mist Gasp - I Do Not<br />
+02 . Aöcram - Recharged Neutrons<br />
+03 . Operator - Benthic Laboratory On Enceladus<br />
+04 . Viels - Wujhca<br />
+05 . Casual Treatment - Tactical Studies<br />
+06 . Nørbak - Causalidade<br />
+07 . UVB - Assassination Techniques<br />
+08 . Mesh Convergence - Between Who I Am<br />
+09 . PWCCA - Circle Trip<br />
+10 . Thomas P . Heckmann - Acid Seduction<br />
+11 . Thanos Hana - Assumption<br />
+12 . Mystics - Fake Three<br />
+13 . Ruman - Die like a man like your brother did<br />
+14 . Vincenzo Pizzi - Mena Forte<br />
+15 . ICD-10 - Rigor Mortis<br />
+16 . Pleasures - Club Simulator 01<br />
+17 . Jokasti & Nek - Beads<br />
+18 . Kreuz - Kazadum<br />
+19 . SAMOH - FP3<br />
+20 . Vexillary - The Smoke (Statiqbloom ReDub)<br />
+21 . Endlec - Hunter In The Shadows<br />
+22 . Superplasticfantastic - Panarus<br />
+23 . Michal Wolski  - Panaceum<br />
+24 . Pascal Hetzel - TWST (GAEL Remix)<br />
 </p>
 
 <p><a name="rzpl762"></a> <strong>Playlist der 762. RauschZeit vom 10.09.2026</strong><br />
-tbd.
+01 . Hezzel - Disgust<br />
+02 . Converter - Garden Of Earthly Delights<br />
+03 . Sans-Fin - Vivre Autrement<br />
+04 . Ah Cama-Sotz - City Without Limits<br />
+05 . CJ Bolland - No Shuffle<br />
+06 . Scalameriya - Psybernetix<br />
+07 . Falhaber - Breaking Trough<br />
+08 . Monya - Kalter Hauch<br />
+09 . MS Gentur & Sven Phalanx - Substanz<br />
+10 . Orphx - Pox Americana 2025<br />
+11 . Crystal Geometry - Surrender Yourself To S4t4n<br />
+12 . Sara Landry - Queen Of The Banshees<br />
+13 . Björk - Hidden Place (Myler Edit)<br />
+14 . S.K.E.T. - The Great Divider<br />
+15 . Proyecto Mirage - Null And Void<br />
+16 . AnD - Destruction<br />
+17 . Maschinenkrieger KR52 - 60620<br />
+18 . Xotox - Narben<br />
+19 . Statiqbloom - A Knife from Above<br />
+20 . <1979> - Disorder<br />
+21 . Synapscape - Melting<br />
+22 . Dame Area - Ister inan, ister inanma<br />
+23 . The Cassandra Complex - Why<br />
+24 . Lilac Numbering System - Dransariana<br />
 </p>
 
 <p><a name="rzpl763"></a> <strong>Playlist der 763. RauschZeit vom 24.09.2026</strong><br />
@@ -593,5 +615,75 @@ tbd.
 </p>
 
 <p><a name="rzpl764"></a> <strong>Playlist der 764. RauschZeit vom 08.10.2026</strong><br />
+01 . Schoeffler - Elephant<br />
+02 . +/-0 - Descent<br />
+03 . Pharmakon - Intent Or Instinct<br />
+04 . One Must Forget - Above An Emptiness<br />
+05 . Conure - The Time Is Near<br />
+06 . Dame Area - La notte é oscura<br />
+07 . Philipp Münch - La Maladie<br />
+08 . Hezzel - Dismay<br />
+09 . Shrouds - Infall Vector<br />
+10 . Torture Gallery - Trauma Response (Ah Cama-Sotz Remix)<br />
+11 . Xotox - Wir hatten doch Träume<br />
+12 . Fotocopia - Postura<br />
+13 . Cervello Elettronico - Melt (Lindsey Herbert Remix)<br />
+14 . Proyecto Mirage - Sparks And Ashes<br />
+15 . Incendie - Rorshar's Farewell<br />
+16 . Maschinenkrieger KR52 - Setsunai<br />
+17 . Last Days Of S.E.X. - Venezuela Mediterranean<br />
+18 . Kult303 - Metamorphosis (Greyhound Accelerator Remix)<br />
+19 . Wackelkontakt - De Point<br />
+20 . Controlled Bleeding - As Evening Fades (Meatleg Remix)<br />
+21 . Räbbeats - Everything's Gonna Be Fine<br />
+22 . Björn Peng - Raus hier<br />
+23 . Spherical Disrupted - Altair (Oko And Machines Remix)<br />
+</p>
+
+<p><a name="rzpl764"></a> <strong>Playlist der 765. RauschZeit vom 22.10.2026</strong><br />
+01 . Aur0Ristes - D’À Côté<br />
+02 . Pandora'S Black Book & Mechanoreceptor - Safe Place To Die<br />
+03 . After White Smoke - Subterra<br />
+04 . Michael Idehall - Horsemen<br />
+05 . L.I.E.S . Records - Jt Whitfield-Bleak Speak<br />
+06 . :10: X Barcoder - He Watches<br />
+07 . Stanislav Tolkachev - Misfire<br />
+08 . Zyxt - It'S Ok To Look Back<br />
+09 . Tomohiko Sagae - Carrion Crow<br />
+10 . <1979> - Underrated<br />
+11 . Enrique & S . English - Ribbed Ramp<br />
+12 . Templer - Chomolungma<br />
+13 . Nigh/T\Mare - Mental Breakdown<br />
+14 . Delta 9, Lenny Dee - God Is Dead (1996)<br />
+15 . Hibou - Geboren In Trauer (Dj Freak Version)<br />
+16 . Heimstatt Yipotash - Silicon Syndicate<br />
+17 . Converter - Martyrdom<br />
+18 . L'Aristokrat - Suffer Treatment<br />
+19 . Braintune - The Noise Complained<br />
+20 . [Fabrikmutter] - Your Reaction (Min:Im:Um Gen:Ocide Rmx)<br />
+21 . Mute . - Searching For Others Of My Kind (Remaster)<br />
+22 . Corner - Crusher<br />
+23 . Mohok - Into The Grid<br />
+24 . Beckahesten - Tomhetens Eviga Psalm<br />
+25 . 505 - What We Used To Feel Ft. Kay Ketting, John-Dennis Renken<br />
+</p>
+
+<p><a name="rzpl764"></a> <strong>Playlist der 766. RauschZeit vom 05.11.2026</strong><br />
 coming soon.
 </p>
+
+<!--p><a name="rzpl764"></a> <strong>Playlist der 767. RauschZeit vom 19.11.2026</strong><br />
+coming soon.
+</p>
+
+<p><a name="rzpl764"></a> <strong>Playlist der 768. RauschZeit vom 03.12.2026</strong><br />
+coming soon.
+</p>
+
+<p><a name="rzpl764"></a> <strong>Playlist der 769. RauschZeit vom 17.12.2026</strong><br />
+coming soon.
+</p>
+
+<p><a name="rzpl764"></a> <strong>Playlist der 770. RauschZeit vom 31.12.2026</strong><br />
+coming soon.
+</p-->

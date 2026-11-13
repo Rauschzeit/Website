@@ -405,7 +405,26 @@ priority: 29
 </p>
 
 <p><a name="rzpl755"></a> <strong>Playlist der 755. RauschZeit vom 04.06.2026</strong><br />
-tbd.
+01. Talvekoidik - A Singular Moment Of Bliss<br />
+02. Sylvgheist Maëlström - Instabilité Fragilité<br />
+03. Incendie - Needles<br />
+04. Geistform - Abset<br />
+05. Ah Cama-Sotz - Sector 13<br />
+06. Heimstatt Yipotash - Flooding The Zone<br />
+07. Statiqbloom + Blush Response - Wipe Away Neither Sorrow<br />
+08. Monolith - Sway<br />
+09. Scalameriya - It Stared Back (Perc Remix)<br />
+10. ICD-10 - Merging Power (feat. Greyhound)<br />
+11. Proyecto Mirage - Handle Chaos<br />
+12. 13th Monkey - Prannok Fear<br />
+13. Frazi.er - Voices From The Void<br />
+14. Philipp Münch - Accidental<br />
+15. Fotocopia - Postura<br />
+16. Dame Area - Tú me hiciste creer<br />
+17. Imminent - No More Chain Gang<br />
+18. Spherical Disrupted - Altair (Dread Remix By Darkrad)<br />
+19. Thierry Arnal - RBMK_(2026)<br />
+20. Audible Masticators & INYAN - Was wuerdest du denken?<br />
 </p>
 
 <p><a name="rzpl756"></a> <strong>Playlist der 756. RauschZeit vom 18.06.2026</strong><br />
@@ -640,7 +659,7 @@ tbd.
 23 . Spherical Disrupted - Altair (Oko And Machines Remix)<br />
 </p>
 
-<p><a name="rzpl764"></a> <strong>Playlist der 765. RauschZeit vom 22.10.2026</strong><br />
+<p><a name="rzpl765"></a> <strong>Playlist der 765. RauschZeit vom 22.10.2026</strong><br />
 01 . Aur0Ristes - D’À Côté<br />
 02 . Pandora'S Black Book & Mechanoreceptor - Safe Place To Die<br />
 03 . After White Smoke - Subterra<br />
@@ -668,22 +687,45 @@ tbd.
 25 . 505 - What We Used To Feel Ft. Kay Ketting, John-Dennis Renken<br />
 </p>
 
-<p><a name="rzpl764"></a> <strong>Playlist der 766. RauschZeit vom 05.11.2026</strong><br />
+<p><a name="rzpl766"></a> <strong>Playlist der 766. RauschZeit vom 05.11.2026</strong><br />
+01. Wohnen & Auvikogue - Micro Memories 2<br />
+02. Kate Bosworth & Signalstoerung - The Sky Stays Empty Today<br />
+03. Disorganism & Thierry Arnal - Ne me dis pas seulement ce que j’ai envie d’entendre<br />
+04. Philippe Neau - Im Zigarettenrauch wird das Zebra zum Tiger<br />
+05. Tulpa Twin & Precenphix - Desolate Horizon<br />
+06. The Rorschach Garden - Pitch Black<br />
+07. Absolute Body Control - Automatic II<br />
+08. The Cassandra Complex - Nightfall<br />
+09. Nine Inch Nails - Survivalism (TweakerRay ReMix 2026)<br />
+10. Assfalt - Gummijesus (Tigerjunge Miserere Mei RMX)<br />
+11. Front Line Assembly - Molotov (Remix) (feat. s:cage & Famine & Lys Morke)<br />
+12. DSX - Slow Revolution<br />
+13. Esplendor Geometrico - Live in Madrid 19 oct 2013 #8<br />
+14. Proyecto Mirage - Whispers In Head<br />
+15. Heimstatt Yipotash - Silicon Syndicate<br />
+16. Statiqbloom - Spectrum in the Thread of a Spider's Web<br />
+17. Monolith - Sway<br />
+18. Ah Cama-Sotz - Sludge<br />
+19. Mono No Aware - Frost<br />
+20. 13th Monkey - Prannok Fear<br />
+21. Synapscape - To The Stars<br />
+22. Wackelkontakt - Skin for Skin<br />
+23. Throbbing Gristle - Convincing People (Live at Volksbühne Berlin 2005)<br />
+24. Dame Area - Tú me Hiciste Creer<br />
+</p>
+
+<p><a name="rzpl767"></a> <strong>Playlist der 767. RauschZeit vom 19.11.2026</strong><br />
 coming soon.
 </p>
 
-<!--p><a name="rzpl764"></a> <strong>Playlist der 767. RauschZeit vom 19.11.2026</strong><br />
+<!--p><a name="rzpl768"></a> <strong>Playlist der 768. RauschZeit vom 03.12.2026</strong><br />
 coming soon.
 </p>
 
-<p><a name="rzpl764"></a> <strong>Playlist der 768. RauschZeit vom 03.12.2026</strong><br />
+<p><a name="rzpl769"></a> <strong>Playlist der 769. RauschZeit vom 17.12.2026</strong><br />
 coming soon.
 </p>
 
-<p><a name="rzpl764"></a> <strong>Playlist der 769. RauschZeit vom 17.12.2026</strong><br />
-coming soon.
-</p>
-
-<p><a name="rzpl764"></a> <strong>Playlist der 770. RauschZeit vom 31.12.2026</strong><br />
+<p><a name="rzpl770"></a> <strong>Playlist der 770. RauschZeit vom 31.12.2026</strong><br />
 coming soon.
 </p-->

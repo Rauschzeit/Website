@@ -14,8 +14,8 @@ title: RauschZeit
 <br /><br />
 <p style="text-align: left;">
     <strong>
-        # RauschZeit Nr.767<br />
-        # 19.11.2026 von 21h - 23h
+        # RauschZeit Nr.768<br />
+        # 03.12.2026 von 21h - 23h
     </strong>
 </p>
 

@@ -715,14 +715,37 @@ priority: 29
 </p>
 
 <p><a name="rzpl767"></a> <strong>Playlist der 767. RauschZeit vom 19.11.2026</strong><br />
+01. Pandora'S Black Book - Do You Really See Me (Psycho Terrain Remix By Mohok)<br />
+02. Autodealer - Draper Point<br />
+03. Midi Bitch - Sommernachtstraum [Sieg Über Die Sonne] Part Ii & Iii [Grenzwellen Edit]<br />
+04. Domenico Crisci & Ruhig - Fallow Glow<br />
+05. Räikkönen - (-) 7_7_7__D_E_G_R_E_E_S<br />
+06. Veelargo - Deluxeional<br />
+07. Evasounds - Disconnect<br />
+08. Ekorce - Page Blanche<br />
+09. Collagist - Šukaj<br />
+10. Tomorrow Comes The Harvest - Say No More (Instrumental)<br />
+11. Linl/Log - Fixing It Quickly<br />
+12. B12 'N' Black Dog Für Arme - Krachtelfinale<br />
+13. 505 - Wasted Time Ft. Lamia<br />
+14. Polyspace - Andromeda<br />
+15. Falhaber - Forever (Inhalt Der Nacht Remix)<br />
+16. Drexciya - Habitat 'O' Negative<br />
+17. Memory Noise - Reversed Directions<br />
+18. Quadratox - Spartium & Lilium<br />
+19. Linn Elisabet - Carry Me Like The Sky<br />
+20. Flint Glass & Ah Cama-Sotz - Pact With The Exultant<br />
+21. Stanislav Tolkachev - A Small Fortune<br />
+22. Raketenbasis Haberlandstrasse - Stereo-Tiefensuggestion Stufe 2<br />
+23. Oval - Of Dreams<br />
+24. Azäl - Chasing A Meaning<br />
+</p>
+
+<p><a name="rzpl768"></a> <strong>Playlist der 768. RauschZeit vom 03.12.2026</strong><br />
 coming soon.
 </p>
 
-<!--p><a name="rzpl768"></a> <strong>Playlist der 768. RauschZeit vom 03.12.2026</strong><br />
-coming soon.
-</p>
-
-<p><a name="rzpl769"></a> <strong>Playlist der 769. RauschZeit vom 17.12.2026</strong><br />
+<!--p><a name="rzpl769"></a> <strong>Playlist der 769. RauschZeit vom 17.12.2026</strong><br />
 coming soon.
 </p>
 
